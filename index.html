@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Jeden Tag ein anderer Hit ab 1980 – erfolgreich in Deutschland, UK und den USA." />
+    <meta name="theme-color" content="#f5f0e7" />
+    <title>Song des Tages</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <header class="site-header">
+        <a class="wordmark" href="#top" aria-label="Song des Tages – Startseite">
+          <span class="wordmark-dot" aria-hidden="true"></span>
+          Song des Tages
+        </a>
+        <span class="daily-note">Täglich neu · ab 1980</span>
+      </header>
+
+      <section class="hero" id="top" aria-live="polite">
+        <div class="hero-copy">
+          <p class="eyebrow" id="song-date">Der nächste Ohrwurm wartet</p>
+          <h1 id="song-title">Song wird geladen …</h1>
+          <p class="artist" id="song-artist"></p>
+          <div class="facts" id="song-facts" aria-label="Songdetails"></div>
+          <a class="listen-button" id="youtube-link" href="https://www.youtube.com/" target="_blank" rel="noreferrer">
+            <span class="play" aria-hidden="true">▶</span>
+            Auf YouTube suchen
+          </a>
+          <p class="load-error" id="load-error" hidden>
+            Der heutige Song konnte gerade nicht geladen werden. Bitte versuche es später noch einmal.
+          </p>
+        </div>
+
+        <div class="record-stage" aria-hidden="true">
+          <div class="record">
+            <div class="record-rings"></div>
+            <div class="record-label"><span id="record-year">PLAY</span></div>
+          </div>
+          <div class="tonearm"></div>
+        </div>
+      </section>
+
+      <section class="archive" aria-labelledby="archive-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Schon gehört?</p>
+            <h2 id="archive-title">Die letzten Songs</h2>
+          </div>
+          <p>Ein kleines Archiv gegen musikalische Eintönigkeit.</p>
+        </div>
+        <ol class="song-list" id="song-list"></ol>
+        <div class="archive-empty" id="archive-empty" hidden>
+          Das Archiv füllt sich ab dem zweiten Song.
+        </div>
+      </section>
+
+      <footer>
+        <p>Automatisch ausgewählt, mit menschlicher Neugier gehört.</p>
+        <span>Ein kleines Projekt auf heute-auch-nicht.de</span>
+      </footer>
+    </main>
+  </body>
+</html>
