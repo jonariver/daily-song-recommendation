@@ -1,13 +1,17 @@
 [
   {
     "date": "2026-08-14",
-    "artist": "Gnarls Barkley",
-    "title": "Crazy",
-    "release_year": 2006,
-    "de_peak": 3,
+    "artist": "Britney Spears",
+    "title": "Toxic",
+    "release_year": 2004,
+    "de_peak": 4,
     "uk_peak": 1,
-    "us_peak": 2,
-    "youtube_url": "https://www.youtube.com/results?search_query=Gnarls%20Barkley%20Crazy"
+    "us_peak": 9,
+    "youtube_url": "https://www.youtube.com/results?search_query=Britney%20Spears%20Toxic",
+    "background": "\"Toxic\" ist ein Dance-Pop- und Techno-Pop-Song der US-Sängerin Britney Spears, der Elemente südasiatischer Musik mit Instrumenten wie Synthesizern und Surf-Gitarren kombiniert. In dem Text wird ein Liebhaber mittels einer Metapher als gefährliche und süchtig machende Droge beschrieben.",
+    "fact_1": "Die markanten hohen Streicherklänge des Liedes stammen aus einem Sample des Bollywood-Songs „Tere Mere Beech Mein“ von 1981.",
+    "fact_2": "Das Lied wurde bei den 47. Grammy Awards als beste Dance-Aufnahme ausgezeichnet und ist damit der einzige Grammy-Gewinn in Spears' Karriere.",
+    "source_url": "https://en.wikipedia.org/wiki/Toxic_(song)"
   },
   {
     "date": "2026-08-13",
@@ -17,6 +21,10 @@
     "de_peak": 2,
     "uk_peak": 1,
     "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Michael%20Jackson%20Billie%20Jean"
+    "youtube_url": "https://www.youtube.com/results?search_query=Michael%20Jackson%20Billie%20Jean",
+    "background": "",
+    "fact_1": "",
+    "fact_2": "",
+    "source_url": ""
   }
 ]
