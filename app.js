@@ -35,6 +35,54 @@ function renderCurrent(song) {
   addFact(facts, `DE #${song.de_peak}`);
   addFact(facts, `UK #${song.uk_peak}`);
   addFact(facts, `USA #${song.us_peak}`);
+  renderStory(song);
+}
+
+function cleanText(value) {
+  return typeof value === 'string' ? value.trim() : '';
+}
+
+function renderStory(song) {
+  const section = $('#song-story');
+  const backgroundElement = $('#song-background');
+  const factBlock = $('#story-facts');
+  const factList = $('#song-interesting-facts');
+  const sourceLink = $('#song-source');
+
+  const background = cleanText(song.background);
+  const interestingFacts = [song.fact_1, song.fact_2]
+    .map(cleanText)
+    .filter(Boolean);
+
+  backgroundElement.textContent = background;
+  backgroundElement.hidden = !background;
+
+  factList.replaceChildren();
+  interestingFacts.forEach((text) => {
+    const item = document.createElement('li');
+    item.textContent = text;
+    factList.append(item);
+  });
+  factBlock.hidden = interestingFacts.length === 0;
+
+  const sourceUrl = cleanText(song.source_url);
+  let hasValidSource = false;
+
+  try {
+    const parsedUrl = new URL(sourceUrl);
+    hasValidSource = parsedUrl.protocol === 'https:' || parsedUrl.protocol === 'http:';
+  } catch {
+    hasValidSource = false;
+  }
+
+  sourceLink.hidden = !hasValidSource;
+  if (hasValidSource) {
+    sourceLink.href = sourceUrl;
+  } else {
+    sourceLink.removeAttribute('href');
+  }
+
+  section.hidden = !background && interestingFacts.length === 0;
 }
 
 function renderArchive(songs) {
@@ -85,6 +133,7 @@ async function loadSongs() {
     $('#song-facts').replaceChildren();
     $('#youtube-link').hidden = true;
     $('#load-error').hidden = false;
+    $('#song-story').hidden = true;
     $('#archive-empty').hidden = false;
   }
 }
