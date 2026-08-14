@@ -43,6 +43,22 @@ h1 { max-width: 760px; margin: 0; font-size: clamp(62px, 8.2vw, 126px); font-wei
 .tonearm::before { content: ""; position: absolute; top: -24px; left: -15px; width: 50px; height: 50px; border: 5px solid var(--ink); border-radius: 50%; background: var(--hot); }
 @keyframes spin { to { transform: rotate(360deg); } }
 
+
+.song-story { background: var(--hot); padding: 92px max(42px, calc((100vw - 1156px) / 2)); }
+.story-shell { display: grid; grid-template-columns: minmax(260px, 0.72fr) minmax(0, 1.28fr); align-items: start; gap: clamp(44px, 7vw, 100px); }
+.story-heading .eyebrow { margin-bottom: 13px; color: var(--ink); }
+.story-heading h2 { max-width: 430px; }
+.story-card { padding: clamp(28px, 4vw, 50px); border: 2px solid var(--ink); border-radius: 30px; background: var(--paper); box-shadow: 9px 9px 0 var(--ink); }
+.story-background { margin: 0; font-size: clamp(19px, 2.2vw, 27px); font-weight: 620; line-height: 1.5; letter-spacing: -0.025em; }
+.story-facts { margin-top: 35px; padding-top: 30px; border-top: 1px solid var(--line); }
+.story-facts h3 { margin: 0 0 18px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; letter-spacing: 0.13em; text-transform: uppercase; }
+.story-facts ul { display: grid; gap: 16px; margin: 0; padding: 0; list-style: none; }
+.story-facts li { position: relative; padding-left: 27px; line-height: 1.6; }
+.story-facts li::before { content: ""; position: absolute; top: 0.62em; left: 0; width: 10px; height: 10px; border-radius: 50%; background: var(--lime); box-shadow: 0 0 0 3px var(--ink); }
+.story-source { display: inline-block; margin-top: 30px; font-size: 13px; font-weight: 800; text-underline-offset: 4px; }
+.story-source:hover { text-decoration-thickness: 2px; }
+.story-source:focus-visible { outline: 3px solid var(--ink); outline-offset: 4px; }
+
 .archive { background: var(--ink); color: white; padding: 92px max(42px, calc((100vw - 1156px) / 2)); }
 .section-heading { display: flex; align-items: end; justify-content: space-between; gap: 40px; margin-bottom: 54px; }
 .section-heading .eyebrow { color: var(--lime); margin-bottom: 10px; }
@@ -72,6 +88,10 @@ footer p { margin: 0; }
   .record-stage { min-height: 440px; margin-top: 40px; }
   .record { width: min(82vw, 390px); }
   .tonearm { right: 5%; height: 250px; }
+  .song-story { padding: 72px 22px; }
+  .story-shell { grid-template-columns: 1fr; gap: 34px; }
+  .story-heading h2 { max-width: 620px; }
+  .story-card { border-radius: 23px; box-shadow: 6px 6px 0 var(--ink); }
   .archive { padding: 72px 22px; }
   .section-heading { align-items: start; flex-direction: column; }
   .song-list li { grid-template-columns: 36px minmax(0, 1fr) auto; gap: 12px; }
