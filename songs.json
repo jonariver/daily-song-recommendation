@@ -1,13 +1,17 @@
 [
   {
     "date": "2026-08-15",
-    "artist": "Gorillaz",
-    "title": "Feel Good Inc.",
-    "release_year": 2005,
-    "de_peak": 8,
+    "artist": "Adele",
+    "title": "Rolling in the Deep",
+    "release_year": 2010,
+    "de_peak": 1,
     "uk_peak": 2,
-    "us_peak": 14,
-    "youtube_url": "https://www.youtube.com/results?search_query=Gorillaz%20Feel%20Good%20Inc."
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Adele%20Rolling%20in%20the%20Deep",
+    "background": "„Rolling in the Deep“ ist der Eröffnungssong von Adeles zweitem Studioalbum „21“ und wurde von ihr zusammen mit Paul Epworth verfasst. Der Text thematisiert die intensiven Gefühle einer verschmähten Liebhaberin.",
+    "fact_1": "Adele selbst beschrieb das Lied als eine „dunkle Blues-Gospel-Disco-Nummer“.",
+    "fact_2": "Das Musikmagazin Rolling Stone listete das Werk auf Platz acht der 100 besten Songs des 21. Jahrhunderts.",
+    "source_url": "https://en.wikipedia.org/wiki/Rolling_in_the_Deep"
   },
   {
     "date": "2026-08-14",
@@ -17,7 +21,11 @@
     "de_peak": 4,
     "uk_peak": 1,
     "us_peak": 9,
-    "youtube_url": "https://www.youtube.com/results?search_query=Britney%20Spears%20Toxic"
+    "youtube_url": "https://www.youtube.com/results?search_query=Britney%20Spears%20Toxic",
+    "background": "\"Toxic\" ist ein Dance-Pop- und Techno-Pop-Song der US-Sängerin Britney Spears, der Elemente südasiatischer Musik mit Instrumenten wie Synthesizern und Surf-Gitarren kombiniert. In dem Text wird ein Liebhaber mittels einer Metapher als gefährliche und süchtig machende Droge beschrieben.",
+    "fact_1": "Die markanten hohen Streicherklänge des Liedes stammen aus einem Sample des Bollywood-Songs „Tere Mere Beech Mein“ von 1981.",
+    "fact_2": "Das Lied wurde bei den 47. Grammy Awards als beste Dance-Aufnahme ausgezeichnet und ist damit der einzige Grammy-Gewinn in Spears' Karriere.",
+    "source_url": "https://en.wikipedia.org/wiki/Toxic_(song)"
   },
   {
     "date": "2026-08-13",
@@ -27,6 +35,10 @@
     "de_peak": 2,
     "uk_peak": 1,
     "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Michael%20Jackson%20Billie%20Jean"
+    "youtube_url": "https://www.youtube.com/results?search_query=Michael%20Jackson%20Billie%20Jean",
+    "background": "",
+    "fact_1": "",
+    "fact_2": "",
+    "source_url": ""
   }
 ]
