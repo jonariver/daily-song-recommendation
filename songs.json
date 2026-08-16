@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-16",
+    "artist": "OutKast",
+    "title": "Hey Ya!",
+    "release_year": 2003,
+    "de_peak": 6,
+    "uk_peak": 3,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=OutKast%20Hey%20Ya!",
+    "background": "\"Hey Ya!\" wurde von André 3000 geschrieben sowie produziert und erschien im August 2003 als Single des Duos OutKast. Der Titel ist Bestandteil ihres fünften Studioalbums „Speakerboxxx/The Love Below“.",
+    "fact_1": "Die Zeitschrift Rolling Stone führte das Lied im Jahr 2021 auf Platz 10 ihrer Liste der 500 besten Songs aller Zeiten.",
+    "fact_2": "Obwohl als Werk des Duos veröffentlicht, wurde der Song allein von André 3000 geschrieben, produziert und eingespielt.",
+    "source_url": "https://en.wikipedia.org/wiki/Hey_Ya!"
+  },
+  {
     "date": "2026-08-15",
     "artist": "Adele",
     "title": "Rolling in the Deep",
