@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-17",
+    "artist": "Cher",
+    "title": "Believe",
+    "release_year": 1998,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Cher%20Believe",
+    "background": "Der 1998 veröffentlichte Song markierte für Cher einen musikalischen Wechsel hin zu Dance-Pop und Electropop. Inhaltlich thematisiert das Werk Empowerment und Selbstgenügsamkeit nach einer schmerzhaften Trennung.",
+    "fact_1": "Das Lied ist bekannt für den wegweisenden Einsatz von Auto-Tune zur Verzerrung der Stimme, was als „Cher-Effekt“ bezeichnet wird.",
+    "fact_2": "Mit diesem Song gewann Cher ihren ersten und einzigen Grammy Award in der Kategorie „Best Dance Recording“.",
+    "source_url": "https://en.wikipedia.org/wiki/Believe_(Cher_song)"
+  },
+  {
     "date": "2026-08-16",
     "artist": "OutKast",
     "title": "Hey Ya!",
