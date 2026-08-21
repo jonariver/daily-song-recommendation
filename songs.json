@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-21",
+    "artist": "Madonna",
+    "title": "Like a Prayer",
+    "release_year": 1989,
+    "de_peak": 2,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Madonna%20Like%20a%20Prayer",
+    "background": "Der Song „Like a Prayer“ von Madonna erschien 1989 und läutete einen künstlerischen sowie persönlichen Neuanfang in der Karriere der Sängerin ein. Musikalisch verbindet das von Madonna und Patrick Leonard produzierte Stück Elemente aus Pop-Rock, Dance-Pop und Gospel mit einem Chor und Rockgitarren. In den Lyrics werden liturgische Begriffe verwendet, die mit doppelter Bedeutung aus Religion und sexuellen Anspielungen spielen.",
+    "fact_1": "Das Musikvideo sorgte mit katholischer Symbolik, brennenden Kreuzen und dem Kuss eines schwarzen Heiligen für große Aufregung und wurde vom Vatikan verurteilt.",
+    "fact_2": "Nach Protesten religiöser Gruppen stieg Pepsi aus einem Werbevertrag mit Madonna aus, ließ der Sängerin jedoch die vereinbarte Gage von 5 Millionen US-Dollar.",
+    "source_url": "https://en.wikipedia.org/wiki/Like_a_Prayer_(song)"
+  },
+  {
     "date": "2026-08-20",
     "artist": "Daft Punk feat. Pharrell Williams",
     "title": "Get Lucky",
