@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-22",
+    "artist": "George Michael",
+    "title": "Faith",
+    "release_year": 1987,
+    "de_peak": 5,
+    "uk_peak": 2,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=George%20Michael%20Faith",
+    "background": "Der Song „Faith“ wurde von dem englischen Sänger und Songwriter George Michael geschrieben sowie produziert. Er wurde 1987 über Columbia Records und Epic Records als zweite Single seines gleichnamigen Debüt-Soloalbums veröffentlicht. Das dazugehörige Musikvideo wurde von Andy Morahan gedreht.",
+    "fact_1": "Laut dem Magazin Billboard war das Lied im Jahr 1988 die Nummer-eins-Single des Jahres in den USA.",
+    "fact_2": "Im Jahr 2001 belegte „Faith“ Platz 322 auf der Liste der „Songs of the Century“.",
+    "source_url": "https://en.wikipedia.org/wiki/Faith_(George_Michael_song)"
+  },
+  {
     "date": "2026-08-21",
     "artist": "Madonna",
     "title": "Like a Prayer",
