@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-23",
+    "artist": "The Police",
+    "title": "Every Breath You Take",
+    "release_year": 1983,
+    "de_peak": 8,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=The%20Police%20Every%20Breath%20You%20Take",
+    "background": "„Every Breath You Take“ ist ein von Sting geschriebener Song der englischen Rockband The Police aus ihrem fünften und letzten Studioalbum Synchronicity aus dem Jahr 1983. Das Stück gilt als das Markenzeichen der Band sowie von Sting selbst.",
+    "fact_1": "Im Mai 2019 wurde das Stück von der Organisation BMI als das meistgespielte Lied in der Geschichte des Radios anerkannt.",
+    "fact_2": "Im Jahr 2010 wurde geschätzt, dass der Song zwischen einem Viertel und einem Drittel von Stings Einnahmen aus Musikverlagsrechten generiert.",
+    "source_url": "https://en.wikipedia.org/wiki/Every_Breath_You_Take"
+  },
+  {
     "date": "2026-08-22",
     "artist": "George Michael",
     "title": "Faith",
