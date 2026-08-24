@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-24",
+    "artist": "Phil Collins",
+    "title": "In the Air Tonight",
+    "release_year": 1981,
+    "de_peak": 1,
+    "uk_peak": 2,
+    "us_peak": 19,
+    "youtube_url": "https://www.youtube.com/results?search_query=Phil%20Collins%20In%20the%20Air%20Tonight",
+    "background": "\"In the Air Tonight\" ist ein Song des englischen Schlagzeugers und Singer-Songwriters Phil Collins, der im Januar 1981 als erste Single seines Debüt-Soloalbums \"Face Value\" veröffentlicht wurde. Collins produzierte das Stück gemeinsam mit Hugh Padgham. Der Titel gilt bis heute als einer seiner größten Hits und wird häufig als sein Markenzeichen bezeichnet.",
+    "fact_1": "Der Song ist besonders berühmt für sein Schlagzeug-Break gegen Ende, das unter anderem als eines der elegantesten und melodramatischsten Drum-Breaks der Geschichte beschrieben wurde.",
+    "fact_2": "Das unter der Regie von Stuart Orme entstandene Musikvideo wurde beim Start des neuen Kabel-Musiksenders MTV im August 1981 sehr häufig gespielt.",
+    "source_url": "https://en.wikipedia.org/wiki/In_the_Air_Tonight"
+  },
+  {
     "date": "2026-08-23",
     "artist": "The Police",
     "title": "Every Breath You Take",
