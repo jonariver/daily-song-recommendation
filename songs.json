@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-25",
+    "artist": "Linkin Park",
+    "title": "In the End",
+    "release_year": 2001,
+    "de_peak": 13,
+    "uk_peak": 8,
+    "us_peak": 2,
+    "youtube_url": "https://www.youtube.com/results?search_query=Linkin%20Park%20In%20the%20End",
+    "background": "„In the End“ ist ein Song der US-amerikanischen Rockband Linkin Park, der als vierte und letzte Single ihres Debütalbums „Hybrid Theory“ im Jahr 2000 erschien. Das Stück zählt zu den bekanntesten Werken der Gruppe und gilt als ihr Signature-Song. Charakteristisch für den Titel sind unter anderem das prägnante Klavier-Riff sowie die vokale Rolle von Rapper Mike Shinoda.",
+    "fact_1": "Leadsänger Chester Bennington mochte den Song anfangs nicht und wollte ursprünglich verhindern, dass er auf das Album „Hybrid Theory“ aufgenommen wird.",
+    "fact_2": "Im Juni 2021 wurde „In the End“ der erste Nu-Metal-Song, der die Marke von einer Milliarde Streams auf Spotify überschritt.",
+    "source_url": "https://en.wikipedia.org/wiki/In_the_End"
+  },
+  {
     "date": "2026-08-24",
     "artist": "Phil Collins",
     "title": "In the Air Tonight",
