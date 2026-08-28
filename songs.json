@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-28",
+    "artist": "Survivor",
+    "title": "Eye of the Tiger",
+    "release_year": 1982,
+    "de_peak": 13,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Survivor%20Eye%20of%20the%20Tiger",
+    "background": "„Eye of the Tiger“ ist ein Song der US-amerikanischen Rockband Survivor, der von Frankie Sullivan und Jim Peterik als Titelsong für den Film Rocky III geschrieben wurde. Das Stück wurde im Mai 1982 veröffentlicht und kombiniert Hardrock mit einem Post-Disco-Beat.",
+    "fact_1": "Sylvester Stallone engagierte Survivor erst, nachdem die Band Queen die Nutzung ihres Songs „Another One Bites the Dust“ verweigert hatte.",
+    "fact_2": "Das Gitarrenriff und die Akkordwechsel des Songs wurden speziell so konzipiert, dass sie zu den Schlägen in den Boxszenen des Films passen.",
+    "source_url": "https://en.wikipedia.org/wiki/Eye_of_the_Tiger"
+  },
+  {
     "date": "2026-08-27",
     "artist": "Bon Jovi",
     "title": "Livin' on a Prayer",
