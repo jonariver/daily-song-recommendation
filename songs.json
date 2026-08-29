@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-29",
+    "artist": "Green Day",
+    "title": "Boulevard of Broken Dreams",
+    "release_year": 2004,
+    "de_peak": 13,
+    "uk_peak": 5,
+    "us_peak": 2,
+    "youtube_url": "https://www.youtube.com/results?search_query=Green%20Day%20Boulevard%20of%20Broken%20Dreams",
+    "background": "„Boulevard of Broken Dreams“ ist eine Power-Ballade der US-amerikanischen Rockband Green Day, die am 29. November 2004 als zweite Single aus ihrem siebten Studioalbum „American Idiot“ veröffentlicht wurde. Der Text wurde von Sänger Billie Joe Armstrong verfasst und schildert die Perspektive der Hauptfigur des Albums, „Jesus of Suburbia“. Produziert wurde das von düsteren Texten geprägte Lied von Rob Cavallo gemeinsam mit der Band.",
+    "fact_1": "In der MTV-Sendung „Green Day Makes a Video“ wurde der vorherige Song des Albums, „Holiday“, als Party und „Boulevard of Broken Dreams“ als der darauffolgende Kater beschrieben.",
+    "fact_2": "Es ist der einzige Song, der sowohl den Grammy Award für die Aufnahme des Jahres („Record of the Year“) als auch den MTV Video Music Award für das Video des Jahres („Video of the Year“) gewinnen konnte.",
+    "source_url": "https://en.wikipedia.org/wiki/Boulevard_of_Broken_Dreams_(Green_Day_song)"
+  },
+  {
     "date": "2026-08-28",
     "artist": "Survivor",
     "title": "Eye of the Tiger",
