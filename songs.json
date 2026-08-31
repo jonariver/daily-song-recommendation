@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-08-31",
+    "artist": "Coldplay",
+    "title": "Viva La Vida",
+    "release_year": 2008,
+    "de_peak": 5,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Coldplay%20Viva%20La%20Vida",
+    "background": "Der Song „Viva la Vida“ der britischen Rockband Coldplay wurde 2008 für ihr viertes Studioalbum veröffentlicht. Die Lyrics erzählen die Geschichte eines Königs, der sein Königreich verloren hat, und enthalten sowohl historische als auch christliche Anspielungen.",
+    "fact_1": "Der Titel des Liedes ist vom letzten Gemälde der mexikanischen Künstlerin Frida Kahlo inspiriert, auf dem die Worte „Viva la Vida“ auf einer Wassermelone zu sehen sind.",
+    "fact_2": "Den gewünschten Klang des Songs fand die Band erst nach dem Hinzufügen des Soundeffekts einer Kirchenglocke, woraufhin Sänger Chris Martin äußerte: „That's it.“",
+    "source_url": "https://en.wikipedia.org/wiki/Viva_la_Vida"
+  },
+  {
     "date": "2026-08-30",
     "artist": "Eminem",
     "title": "Lose Yourself",
