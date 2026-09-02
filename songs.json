@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-02",
+    "artist": "Toto",
+    "title": "Africa",
+    "release_year": 1982,
+    "de_peak": 7,
+    "uk_peak": 3,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Toto%20Africa",
+    "background": "„Africa“ ist ein Song der US-amerikanischen Rockband Toto und der finale Titel ihres vierten Studioalbums „Toto IV“ aus dem Jahr 1982. Geschrieben von den Bandmitgliedern David Paich und Jeff Porcaro, wurde der Titel von der Band selbst produziert und von Greg Ladanyi abgemischt. Die Veröffentlichung entwickelte sich im Laufe der Zeit zu einem der meistverkauften Songs aller Zeiten.",
+    "fact_1": "Das 1983 veröffentlichte Musikvideo von Regisseur Steve Barron, das die Band in einer Bibliothek zeigt, erreichte im Juni 2024 die Marke von einer Milliarde Aufrufen auf YouTube.",
+    "fact_2": "Mitte bis Ende der 2010er-Jahre erlebte der Song über die sozialen Medien einen erneuten Popularitätsschub.",
+    "source_url": "https://en.wikipedia.org/wiki/Africa_(song)"
+  },
+  {
     "date": "2026-08-31",
     "artist": "Coldplay",
     "title": "Viva La Vida",
