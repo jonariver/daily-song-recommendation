@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-03",
+    "artist": "U2",
+    "title": "With or Without You",
+    "release_year": 1987,
+    "de_peak": 7,
+    "uk_peak": 4,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=U2%20With%20or%20Without%20You",
+    "background": "„With or Without You“ ist ein Song der irischen Rockband U2, der im März 1987 als erste Single ihres fünften Studioalbums „The Joshua Tree“ veröffentlicht wurde. Die Rockballade basiert auf einem Ende 1985 aufgenommenen Demo und behandelt vordergründig eine schwierige Liebe. Inspiriert wurden die Lyrics von Bonos zwiespältigen Gefühlen bezüglich seines Lebens als Musiker im Vergleich zu seinem Familienleben.",
+    "fact_1": "Gitarrist The Edge nutzte für die gehaltenen Gitarrentöne des Songs einen Prototyp der sogenannten „Infinite Guitar“.",
+    "fact_2": "„With or Without You“ ist der am zweithäufigsten gecoverte Song von U2.",
+    "source_url": "https://en.wikipedia.org/wiki/With_or_Without_You"
+  },
+  {
     "date": "2026-09-02",
     "artist": "Toto",
     "title": "Africa",
