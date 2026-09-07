@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-07",
+    "artist": "Rick Astley",
+    "title": "Never Gonna Give You Up",
+    "release_year": 1987,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Rick%20Astley%20Never%20Gonna%20Give%20You%20Up",
+    "background": "„Never Gonna Give You Up“ ist ein Pop-Song des englischen Sängers Rick Astley, der am 27. Juli 1987 als erste Single seines Debütalbums „Whenever You Need Somebody“ erschien. Das von Stock Aitken Waterman geschriebene und produzierte Stück gilt als Astleys bekanntester Titel und wird von ihm regelmäßig am Ende seiner Live-Konzerte gespielt.",
+    "fact_1": "Durch das Internet-Meme „Rickroll“ erlebte das Musikvideo 2007 ein Comeback, woraufhin Astley 2008 dank einer Internet-Kampagne den MTV Europe Music Award als „Best Act Ever“ gewann.",
+    "fact_2": "Das Magazin Billboard wählte „Never Gonna Give You Up“ im Jahr 2023 unter die 500 besten Pop-Songs aller Zeiten.",
+    "source_url": "https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up"
+  },
+  {
     "date": "2026-09-06",
     "artist": "Whitney Houston",
     "title": "I Wanna Dance with Somebody (Who Loves Me)",
