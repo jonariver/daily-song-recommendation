@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-08",
+    "artist": "Red Hot Chili Peppers",
+    "title": "Under the Bridge",
+    "release_year": 1992,
+    "de_peak": 11,
+    "uk_peak": 13,
+    "us_peak": 2,
+    "youtube_url": "https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Under%20the%20Bridge",
+    "background": "Der Song „Under the Bridge“ der US-amerikanischen Rockband Red Hot Chili Peppers erschien im Februar 1992 als elfter Titel ihres fünften Studioalbums Blood Sugar Sex Magik. Sänger Anthony Kiedis verfasste den Text, während er über Einsamkeit sowie den Kampf gegen seine Drogensucht nachdachte, und wollte ihn zunächst beinahe nicht mit der Band teilen. Die emotionale Nummer verhalf der Gruppe schließlich zum Durchbruch im Mainstream.",
+    "fact_1": "Das zugehörige Musikvideo wurde in Los Angeles gedreht und vom Regisseur Gus Van Sant geleitet.",
+    "fact_2": "Im Jahr 1998 veröffentlichte die englische Girlgroup All Saints eine Coverversion, die zwei Wochen lang die Spitze der britischen Singlecharts belegte.",
+    "source_url": "https://en.wikipedia.org/wiki/Under_the_Bridge"
+  },
+  {
     "date": "2026-09-07",
     "artist": "Rick Astley",
     "title": "Never Gonna Give You Up",
