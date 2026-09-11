@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-11",
+    "artist": "Oasis",
+    "title": "Wonderwall",
+    "release_year": 1995,
+    "de_peak": 17,
+    "uk_peak": 2,
+    "us_peak": 8,
+    "youtube_url": "https://www.youtube.com/results?search_query=Oasis%20Wonderwall",
+    "background": "\"Wonderwall\" ist ein Song der englischen Rockband Oasis, der am 30. Oktober 1995 als vierte Single ihres zweiten Studioalbums (What's the Story) Morning Glory? veröffentlicht wurde. Das von Noel Gallagher geschriebene Stück beschreibt laut dem Gitarristen einen imaginären Freund, der einen vor sich selbst rettet.",
+    "fact_1": "Der Titel des Songs wurde durch George Harrisons Soloalbum Wonderwall Music inspiriert.",
+    "fact_2": "Im Oktober 2020 wurde „Wonderwall“ der erste Song aus den 1990er-Jahren, der eine Milliarde Streams auf Spotify erreichte.",
+    "source_url": "https://en.wikipedia.org/wiki/Wonderwall"
+  },
+  {
     "date": "2026-09-10",
     "artist": "Simple Minds",
     "title": "Don't You (Forget About Me)",
