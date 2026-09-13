@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-13",
+    "artist": "Falco",
+    "title": "Rock Me Amadeus",
+    "release_year": 1985,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Falco%20Rock%20Me%20Amadeus",
+    "background": "„Rock Me Amadeus“ ist ein Song des österreichischen Musikers Falco, der 1985 für sein drittes Studioalbum „Falco 3“ aufgenommen wurde. Die Single wurde im selben Jahr über das Label A&M für den physischen Verkauf im deutschsprachigen Europa veröffentlicht.",
+    "fact_1": "Der Song wurde von Falco zusammen mit den niederländischen Musikproduzenten Bolland & Bolland geschrieben.",
+    "fact_2": "Es ist bis heute das einzige deutschsprachige Lied, das die Spitzenposition der US-amerikanischen Billboard Hot 100 erreichte.",
+    "source_url": "https://en.wikipedia.org/wiki/Rock_Me_Amadeus"
+  },
+  {
     "date": "2026-09-12",
     "artist": "Lady Gaga",
     "title": "Bad Romance",
