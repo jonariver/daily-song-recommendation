@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-14",
+    "artist": "Cyndi Lauper",
+    "title": "Girls Just Want to Have Fun",
+    "release_year": 1983,
+    "de_peak": 6,
+    "uk_peak": 2,
+    "us_peak": 2,
+    "youtube_url": "https://www.youtube.com/results?search_query=Cyndi%20Lauper%20Girls%20Just%20Want%20to%20Have%20Fun",
+    "background": "\"Girls Just Want to Have Fun\" wurde 1979 von Robert Hazard geschrieben und 1983 durch die US-amerikanische Sängerin Cyndi Lauper bekannt gemacht, die dafür einige Textzeilen änderte. Das Lied erschien über Portrait Records als ihre Debütsingle aus dem ersten Soloalbum \"She's So Unusual\" und erlangte Bekanntheit als feministische Hymne.",
+    "fact_1": "Der Song wurde von mehr als 30 anderen Künstlern gecovert.",
+    "fact_2": "Mit 14 Millionen verkauften Exemplaren weltweit war das Stück die zweitmeistverkaufte Single einer Künstlerin in den 1980er-Jahren.",
+    "source_url": "https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun"
+  },
+  {
     "date": "2026-09-13",
     "artist": "Falco",
     "title": "Rock Me Amadeus",
@@ -418,19 +432,5 @@
     "fact_1": "Die markanten hohen Streicherklänge des Liedes stammen aus einem Sample des Bollywood-Songs „Tere Mere Beech Mein“ von 1981.",
     "fact_2": "Das Lied wurde bei den 47. Grammy Awards als beste Dance-Aufnahme ausgezeichnet und ist damit der einzige Grammy-Gewinn in Spears' Karriere.",
     "source_url": "https://en.wikipedia.org/wiki/Toxic_(song)"
-  },
-  {
-    "date": "2026-08-13",
-    "artist": "Michael Jackson",
-    "title": "Billie Jean",
-    "release_year": 1983,
-    "de_peak": 2,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Michael%20Jackson%20Billie%20Jean",
-    "background": "",
-    "fact_1": "",
-    "fact_2": "",
-    "source_url": ""
   }
 ]
