@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-16",
+    "artist": "Mark Ronson feat. Bruno Mars",
+    "title": "Uptown Funk",
+    "release_year": 2014,
+    "de_peak": 3,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Mark%20Ronson%20feat.%20Bruno%20Mars%20Uptown%20Funk",
+    "background": "\"Uptown Funk\" ist ein Song des britisch-amerikanischen DJs Mark Ronson und des US-Sängers Bruno Mars aus dem Jahr 2014. Der Titel entstand während einer Freestyle-Studio-Session auf Basis eines Jams, den Mars und seine Band auf Tour gespielt hatten. Musikalisch greift das Stück im Stil von Funk-Pop und Soul den Geist der Funk-Musik der 1980er-Jahre auf.",
+    "fact_1": "Nach der Veröffentlichung führten Urheberrechtskontroversen zu mehreren Klagen und nachträglichen Änderungen an den Songwriting-Credits.",
+    "fact_2": "Das Musikvideo, das Mark Ronson, Bruno Mars und The Hooligans tanzend in einer Stadtstraße zeigt, verzeichnet auf YouTube über 5,6 Milliarden Aufrufe.",
+    "source_url": "https://en.wikipedia.org/wiki/Uptown_Funk"
+  },
+  {
     "date": "2026-09-15",
     "artist": "Evanescence",
     "title": "Bring Me to Life",
@@ -418,19 +432,5 @@
     "fact_1": "Die Zeitschrift Rolling Stone führte das Lied im Jahr 2021 auf Platz 10 ihrer Liste der 500 besten Songs aller Zeiten.",
     "fact_2": "Obwohl als Werk des Duos veröffentlicht, wurde der Song allein von André 3000 geschrieben, produziert und eingespielt.",
     "source_url": "https://en.wikipedia.org/wiki/Hey_Ya!"
-  },
-  {
-    "date": "2026-08-15",
-    "artist": "Adele",
-    "title": "Rolling in the Deep",
-    "release_year": 2010,
-    "de_peak": 1,
-    "uk_peak": 2,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Adele%20Rolling%20in%20the%20Deep",
-    "background": "„Rolling in the Deep“ ist der Eröffnungssong von Adeles zweitem Studioalbum „21“ und wurde von ihr zusammen mit Paul Epworth verfasst. Der Text thematisiert die intensiven Gefühle einer verschmähten Liebhaberin.",
-    "fact_1": "Adele selbst beschrieb das Lied als eine „dunkle Blues-Gospel-Disco-Nummer“.",
-    "fact_2": "Das Musikmagazin Rolling Stone listete das Werk auf Platz acht der 100 besten Songs des 21. Jahrhunderts.",
-    "source_url": "https://en.wikipedia.org/wiki/Rolling_in_the_Deep"
   }
 ]
