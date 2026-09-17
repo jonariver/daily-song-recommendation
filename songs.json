@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-17",
+    "artist": "The Human League",
+    "title": "Don't You Want Me",
+    "release_year": 1981,
+    "de_peak": 5,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=The%20Human%20League%20Don't%20You%20Want%20Me",
+    "background": "„Don't You Want Me“ ist ein Song der englischen Synth-Pop-Band The Human League, der am 27. November 1981 als vierte Single aus ihrem dritten Studioalbum „Dare“ veröffentlicht wurde. Das Stück gilt als das bekannteste und kommerziell erfolgreichste Werk der Gruppe.",
+    "fact_1": "Auf dem Cover der Single wurde die Band als „Human League 100“ aufgeführt.",
+    "fact_2": "Das Magazin Rolling Stone bezeichnete das Lied im November 1983 als den Durchbruchssong der sogenannten „Second British Invasion“ in den USA.",
+    "source_url": "https://en.wikipedia.org/wiki/Don%27t_You_Want_Me"
+  },
+  {
     "date": "2026-09-16",
     "artist": "Mark Ronson feat. Bruno Mars",
     "title": "Uptown Funk",
@@ -418,19 +432,5 @@
     "fact_1": "Das Lied ist bekannt für den wegweisenden Einsatz von Auto-Tune zur Verzerrung der Stimme, was als „Cher-Effekt“ bezeichnet wird.",
     "fact_2": "Mit diesem Song gewann Cher ihren ersten und einzigen Grammy Award in der Kategorie „Best Dance Recording“.",
     "source_url": "https://en.wikipedia.org/wiki/Believe_(Cher_song)"
-  },
-  {
-    "date": "2026-08-16",
-    "artist": "OutKast",
-    "title": "Hey Ya!",
-    "release_year": 2003,
-    "de_peak": 6,
-    "uk_peak": 3,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=OutKast%20Hey%20Ya!",
-    "background": "\"Hey Ya!\" wurde von André 3000 geschrieben sowie produziert und erschien im August 2003 als Single des Duos OutKast. Der Titel ist Bestandteil ihres fünften Studioalbums „Speakerboxxx/The Love Below“.",
-    "fact_1": "Die Zeitschrift Rolling Stone führte das Lied im Jahr 2021 auf Platz 10 ihrer Liste der 500 besten Songs aller Zeiten.",
-    "fact_2": "Obwohl als Werk des Duos veröffentlicht, wurde der Song allein von André 3000 geschrieben, produziert und eingespielt.",
-    "source_url": "https://en.wikipedia.org/wiki/Hey_Ya!"
   }
 ]
