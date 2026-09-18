@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-18",
+    "artist": "Roxette",
+    "title": "It Must Have Been Love",
+    "release_year": 1990,
+    "de_peak": 4,
+    "uk_peak": 3,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Roxette%20It%20Must%20Have%20Been%20Love",
+    "background": "„It Must Have Been Love“ ist eine von Per Gessle geschriebene Powerballade des schwedischen Pop-Duos Roxette, die als ihr bekanntester Song gilt. Die erfolgreichste Fassung entstand 1990 für den Soundtrack des Films „Pretty Woman“, wofür die ursprünglichen Weihnachtsbezüge des Liedes entfernt wurden.",
+    "fact_1": "Der Song wurde ursprünglich 1987 unter dem Titel „It Must Have Been Love (Christmas for the Broken Hearted)“ veröffentlicht.",
+    "fact_2": "Es gibt fünf offiziell veröffentlichte Versionen des Liedes, darunter eine Country-Version und eine spanischsprachige Aufnahme.",
+    "source_url": "https://en.wikipedia.org/wiki/It_Must_Have_Been_Love"
+  },
+  {
     "date": "2026-09-17",
     "artist": "The Human League",
     "title": "Don't You Want Me",
@@ -418,19 +432,5 @@
     "fact_1": "Das Musikvideo zum Song wurde von Antoine Fuqua gedreht und zeigt ebenfalls die Schauspielerin Michelle Pfeiffer.",
     "fact_2": "Coolio wurde für den Titel mit einem Grammy in der Kategorie „Best Rap Solo Performance“ ausgezeichnet.",
     "source_url": "https://en.wikipedia.org/wiki/Gangsta%27s_Paradise"
-  },
-  {
-    "date": "2026-08-17",
-    "artist": "Cher",
-    "title": "Believe",
-    "release_year": 1998,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Cher%20Believe",
-    "background": "Der 1998 veröffentlichte Song markierte für Cher einen musikalischen Wechsel hin zu Dance-Pop und Electropop. Inhaltlich thematisiert das Werk Empowerment und Selbstgenügsamkeit nach einer schmerzhaften Trennung.",
-    "fact_1": "Das Lied ist bekannt für den wegweisenden Einsatz von Auto-Tune zur Verzerrung der Stimme, was als „Cher-Effekt“ bezeichnet wird.",
-    "fact_2": "Mit diesem Song gewann Cher ihren ersten und einzigen Grammy Award in der Kategorie „Best Dance Recording“.",
-    "source_url": "https://en.wikipedia.org/wiki/Believe_(Cher_song)"
   }
 ]
