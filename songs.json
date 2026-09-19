@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-19",
+    "artist": "Rihanna feat. Jay-Z",
+    "title": "Umbrella",
+    "release_year": 2007,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Rihanna%20feat.%20Jay-Z%20Umbrella",
+    "background": "Der Song „Umbrella“ der barbadischen Sängerin Rihanna wurde am 29. März 2007 als Lead-Single ihres dritten Studioalbums „Good Girl Gone Bad“ veröffentlicht. Das Stück enthält einen Gastbeitrag ihres Mentors und Def-Jam-Labelchefs Jay-Z, der den Song auch mitgeschrieben hat.",
+    "fact_1": "Das Musikvideo von Regisseur Chris Applebaum zeigt Rihannas nackten, mit silberner Farbe bedeckten Körper und wurde bei den MTV Video Music Awards 2007 als Video des Jahres ausgezeichnet.",
+    "fact_2": "In Großbritannien fiel der Erfolg des Songs zeitlich mit langanhaltendem Regen und Überschwemmungen zusammen, woraufhin er zu einem der meistgespielten Radiosongs der 2000er Jahre wurde.",
+    "source_url": "https://en.wikipedia.org/wiki/Umbrella_(song)"
+  },
+  {
     "date": "2026-09-18",
     "artist": "Roxette",
     "title": "It Must Have Been Love",
@@ -418,19 +432,5 @@
     "fact_1": "Das zugehörige Musikvideo wurde von Filmen wie „Fear and Loathing in Las Vegas“, „Joker“ und „Casino“ inspiriert.",
     "fact_2": "Auf Spotify ist es der meistgestreamte Song aller Zeiten und der erste Titel, der mehr als fünf Milliarden Streams erreicht hat.",
     "source_url": "https://en.wikipedia.org/wiki/Blinding_Lights"
-  },
-  {
-    "date": "2026-08-18",
-    "artist": "Coolio feat. L.V.",
-    "title": "Gangsta's Paradise",
-    "release_year": 1995,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Coolio%20feat.%20L.V.%20Gangsta's%20Paradise",
-    "background": "„Gangsta’s Paradise“ von Coolio und L.V. wurde im August 1995 veröffentlicht und war das Herzstück des Soundtracks zum Film „Dangerous Minds“ mit Michelle Pfeiffer. Das Lied basiert auf einer Interpolation des Stevie-Wonder-Songs „Pastime Paradise“ aus dem Jahr 1976.",
-    "fact_1": "Das Musikvideo zum Song wurde von Antoine Fuqua gedreht und zeigt ebenfalls die Schauspielerin Michelle Pfeiffer.",
-    "fact_2": "Coolio wurde für den Titel mit einem Grammy in der Kategorie „Best Rap Solo Performance“ ausgezeichnet.",
-    "source_url": "https://en.wikipedia.org/wiki/Gangsta%27s_Paradise"
   }
 ]
