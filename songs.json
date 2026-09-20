@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-20",
+    "artist": "Avicii",
+    "title": "Wake Me Up",
+    "release_year": 2013,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 4,
+    "youtube_url": "https://www.youtube.com/results?search_query=Avicii%20Wake%20Me%20Up",
+    "background": "„Wake Me Up“ ist die im Juni 2013 veröffentlichte Lead-Single aus dem Debütalbum „True“ des schwedischen DJs und Produzenten Avicii. Der Song entstand in Zusammenarbeit mit Aloe Blacc, der den Gesang beisteuerte, sowie Mike Einziger von der Band Incubus. Nach seiner Veröffentlichung entwickelte sich das Stück weltweit zu einem großen kritischen sowie kommerziellen Erfolg.",
+    "fact_1": "Bei der ersten Live-Präsentation auf dem Ultra Music Festival in Miami trat Avicii mit einer vollständigen Live-Band auf, was Teile der EDM-Community zunächst verwirrte und verärgerte.",
+    "fact_2": "Die prägende Akustikgitarre des Songs wird von Mike Einziger, dem Gitarristen von Incubus, gespielt.",
+    "source_url": "https://en.wikipedia.org/wiki/Wake_Me_Up_(Avicii_song)"
+  },
+  {
     "date": "2026-09-19",
     "artist": "Rihanna feat. Jay-Z",
     "title": "Umbrella",
@@ -418,19 +432,5 @@
     "fact_1": "Vor der offiziellen Veröffentlichung als Single war der Song bereits in Werbespots während der TV-Show \"Saturday Night Live\" zu hören.",
     "fact_2": "Bei der Verleihung der 56. Grammy Awards gewann der Titel unter anderem die Kategorie \"Record of the Year\" und wurde dort zusammen mit Stevie Wonder live aufgeführt.",
     "source_url": "https://en.wikipedia.org/wiki/Get_Lucky_(Daft_Punk_song)"
-  },
-  {
-    "date": "2026-08-19",
-    "artist": "The Weeknd",
-    "title": "Blinding Lights",
-    "release_year": 2019,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=The%20Weeknd%20Blinding%20Lights",
-    "background": "„Blinding Lights“ ist ein Song des kanadischen Sängers The Weeknd aus seinem vierten Studioalbum „After Hours“ (2020). Der Track ist stilistisch im Synth-Pop und New Wave angesiedelt und thematisiert die Sehnsucht nach einem Partner in der Nacht.",
-    "fact_1": "Das zugehörige Musikvideo wurde von Filmen wie „Fear and Loathing in Las Vegas“, „Joker“ und „Casino“ inspiriert.",
-    "fact_2": "Auf Spotify ist es der meistgestreamte Song aller Zeiten und der erste Titel, der mehr als fünf Milliarden Streams erreicht hat.",
-    "source_url": "https://en.wikipedia.org/wiki/Blinding_Lights"
   }
 ]
