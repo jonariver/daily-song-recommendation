@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-21",
+    "artist": "Blondie",
+    "title": "Call Me",
+    "release_year": 1980,
+    "de_peak": 14,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Blondie%20Call%20Me",
+    "background": "„Call Me“ ist ein Song der US-amerikanischen New-Wave-Band Blondie, der Anfang 1980 in den USA als Single erschien. Das Stück diente als Titelsong für den Film „American Gigolo“ aus dem Jahr 1980 und ist auch auf dessen Soundtrack-Album enthalten.",
+    "fact_1": "Der Titel wurde von dem italienischen Musiker Giorgio Moroder komponiert und produziert.",
+    "fact_2": "Der Songtext stammt von der Blondie-Sängerin Debbie Harry.",
+    "source_url": "https://en.wikipedia.org/wiki/Call_Me_(Blondie_song)"
+  },
+  {
     "date": "2026-09-20",
     "artist": "Avicii",
     "title": "Wake Me Up",
@@ -418,19 +432,5 @@
     "fact_1": "Das Musikvideo sorgte mit katholischer Symbolik, brennenden Kreuzen und dem Kuss eines schwarzen Heiligen für große Aufregung und wurde vom Vatikan verurteilt.",
     "fact_2": "Nach Protesten religiöser Gruppen stieg Pepsi aus einem Werbevertrag mit Madonna aus, ließ der Sängerin jedoch die vereinbarte Gage von 5 Millionen US-Dollar.",
     "source_url": "https://en.wikipedia.org/wiki/Like_a_Prayer_(song)"
-  },
-  {
-    "date": "2026-08-20",
-    "artist": "Daft Punk feat. Pharrell Williams",
-    "title": "Get Lucky",
-    "release_year": 2013,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 2,
-    "youtube_url": "https://www.youtube.com/results?search_query=Daft%20Punk%20feat.%20Pharrell%20Williams%20Get%20Lucky",
-    "background": "\"Get Lucky\" erschien am 19. April 2013 als Lead-Single aus \"Random Access Memories\", dem vierten und letzten Studioalbum des französischen Electronic-Duos Daft Punk. Das vom House inspirierte Disco-, Funk- und Pop-Stück entstand zusammen mit Pharrell Williams sowie dem Gitarristen Nile Rodgers und wurde von Musikkritikern hoch gelobt.",
-    "fact_1": "Vor der offiziellen Veröffentlichung als Single war der Song bereits in Werbespots während der TV-Show \"Saturday Night Live\" zu hören.",
-    "fact_2": "Bei der Verleihung der 56. Grammy Awards gewann der Titel unter anderem die Kategorie \"Record of the Year\" und wurde dort zusammen mit Stevie Wonder live aufgeführt.",
-    "source_url": "https://en.wikipedia.org/wiki/Get_Lucky_(Daft_Punk_song)"
   }
 ]
