@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-22",
+    "artist": "Billie Eilish",
+    "title": "bad guy",
+    "release_year": 2019,
+    "de_peak": 4,
+    "uk_peak": 2,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Billie%20Eilish%20bad%20guy",
+    "background": "„Bad Guy“ ist ein Song der US-amerikanischen Singer-Songwriterin Billie Eilish und erschien im März 2019 als fünfte Single ihres Debütalbums „When We All Fall Asleep, Where Do We Go?“. Das durch minimalistische Instrumentierung geprägte Stück wird stilistisch als Dance-Pop, Elektropop und Pop-Trap beschrieben. Eilish schrieb den Song gemeinsam mit ihrem Bruder und Produzenten Finneas O'Connell.",
+    "fact_1": "In den Lyrics verspottet Eilish ihr Gegenüber dafür, einen auf hart zu machen, während sie nahelegt, selbst der widerstandsfähigere „bad guy“ zu sein.",
+    "fact_2": "Das Musikvideo zeigt exzentrische Szenen, unter anderem wie Eilish Nasenbluten hat oder auf dem Rücken eines Mannes sitzt, der Liegestütze macht.",
+    "source_url": "https://en.wikipedia.org/wiki/Bad_Guy_(Billie_Eilish_song)"
+  },
+  {
     "date": "2026-09-21",
     "artist": "Blondie",
     "title": "Call Me",
@@ -418,19 +432,5 @@
     "fact_1": "Laut dem Magazin Billboard war das Lied im Jahr 1988 die Nummer-eins-Single des Jahres in den USA.",
     "fact_2": "Im Jahr 2001 belegte „Faith“ Platz 322 auf der Liste der „Songs of the Century“.",
     "source_url": "https://en.wikipedia.org/wiki/Faith_(George_Michael_song)"
-  },
-  {
-    "date": "2026-08-21",
-    "artist": "Madonna",
-    "title": "Like a Prayer",
-    "release_year": 1989,
-    "de_peak": 2,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Madonna%20Like%20a%20Prayer",
-    "background": "Der Song „Like a Prayer“ von Madonna erschien 1989 und läutete einen künstlerischen sowie persönlichen Neuanfang in der Karriere der Sängerin ein. Musikalisch verbindet das von Madonna und Patrick Leonard produzierte Stück Elemente aus Pop-Rock, Dance-Pop und Gospel mit einem Chor und Rockgitarren. In den Lyrics werden liturgische Begriffe verwendet, die mit doppelter Bedeutung aus Religion und sexuellen Anspielungen spielen.",
-    "fact_1": "Das Musikvideo sorgte mit katholischer Symbolik, brennenden Kreuzen und dem Kuss eines schwarzen Heiligen für große Aufregung und wurde vom Vatikan verurteilt.",
-    "fact_2": "Nach Protesten religiöser Gruppen stieg Pepsi aus einem Werbevertrag mit Madonna aus, ließ der Sängerin jedoch die vereinbarte Gage von 5 Millionen US-Dollar.",
-    "source_url": "https://en.wikipedia.org/wiki/Like_a_Prayer_(song)"
   }
 ]
