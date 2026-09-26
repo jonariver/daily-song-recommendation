@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-26",
+    "artist": "Berlin",
+    "title": "Take My Breath Away",
+    "release_year": 1986,
+    "de_peak": 3,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Berlin%20Take%20My%20Breath%20Away",
+    "background": "„Take My Breath Away“ ist ein Song, der von Giorgio Moroder und Tom Whitlock für den Soundtrack des Films „Top Gun“ aus dem Jahr 1986 geschrieben wurde. Das Stück wurde von der US-amerikanischen New-Wave-Band Berlin interpretiert und erschien auch auf ihrem Album „Count Three & Pray“.",
+    "fact_1": "Der Song gewann den Academy Award (Oscar) für den besten Originalsong bei der 59. Verleihung.",
+    "fact_2": "Ebenso wurde das Lied bei den 44. Golden Globe Awards im Jahr 1986 als bester Originalsong ausgezeichnet.",
+    "source_url": "https://en.wikipedia.org/wiki/Take_My_Breath_Away"
+  },
+  {
     "date": "2026-09-25",
     "artist": "Guns N' Roses",
     "title": "Sweet Child O' Mine",
@@ -418,19 +432,5 @@
     "fact_1": "Leadsänger Chester Bennington mochte den Song anfangs nicht und wollte ursprünglich verhindern, dass er auf das Album „Hybrid Theory“ aufgenommen wird.",
     "fact_2": "Im Juni 2021 wurde „In the End“ der erste Nu-Metal-Song, der die Marke von einer Milliarde Streams auf Spotify überschritt.",
     "source_url": "https://en.wikipedia.org/wiki/In_the_End"
-  },
-  {
-    "date": "2026-08-24",
-    "artist": "Phil Collins",
-    "title": "In the Air Tonight",
-    "release_year": 1981,
-    "de_peak": 1,
-    "uk_peak": 2,
-    "us_peak": 19,
-    "youtube_url": "https://www.youtube.com/results?search_query=Phil%20Collins%20In%20the%20Air%20Tonight",
-    "background": "\"In the Air Tonight\" ist ein Song des englischen Schlagzeugers und Singer-Songwriters Phil Collins, der im Januar 1981 als erste Single seines Debüt-Soloalbums \"Face Value\" veröffentlicht wurde. Collins produzierte das Stück gemeinsam mit Hugh Padgham. Der Titel gilt bis heute als einer seiner größten Hits und wird häufig als sein Markenzeichen bezeichnet.",
-    "fact_1": "Der Song ist besonders berühmt für sein Schlagzeug-Break gegen Ende, das unter anderem als eines der elegantesten und melodramatischsten Drum-Breaks der Geschichte beschrieben wurde.",
-    "fact_2": "Das unter der Regie von Stuart Orme entstandene Musikvideo wurde beim Start des neuen Kabel-Musiksenders MTV im August 1981 sehr häufig gespielt.",
-    "source_url": "https://en.wikipedia.org/wiki/In_the_Air_Tonight"
   }
 ]
