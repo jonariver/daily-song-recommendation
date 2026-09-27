@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-27",
+    "artist": "The Black Eyed Peas",
+    "title": "I Gotta Feeling",
+    "release_year": 2009,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=The%20Black%20Eyed%20Peas%20I%20Gotta%20Feeling",
+    "background": "„I Gotta Feeling“ ist ein Song der US-amerikanischen Gruppe The Black Eyed Peas aus ihrem fünften Studioalbum „The E.N.D.“ von 2009. Der Titel wurde von den Bandmitgliedern gemeinsam mit den Produzenten David Guetta und Frédéric Riesterer geschrieben. Am 15. Juni 2009 wurde das Stück über Interscope Records als zweite Single des Albums veröffentlicht.",
+    "fact_1": "Bei den 52. Grammy Awards gewann der Titel die Auszeichnung für die beste Pop-Darbietung eines Duos oder einer Gruppe mit Gesang.",
+    "fact_2": "Im März 2011 wurde der Song das erste Werk in der digitalen Geschichte, das in den USA über sieben Millionen digitale Kopien verkaufte.",
+    "source_url": "https://en.wikipedia.org/wiki/I_Gotta_Feeling"
+  },
+  {
     "date": "2026-09-26",
     "artist": "Berlin",
     "title": "Take My Breath Away",
@@ -418,19 +432,5 @@
     "fact_1": "Der Song wurde ursprünglich bereits 1964 von der Soul-Musikerin Gloria Jones aufgenommen.",
     "fact_2": "Der Komponist des Liedes, Ed Cobb, war ehemaliges Mitglied der US-amerikanischen Gruppe The Four Preps.",
     "source_url": "https://en.wikipedia.org/wiki/Tainted_Love"
-  },
-  {
-    "date": "2026-08-25",
-    "artist": "Linkin Park",
-    "title": "In the End",
-    "release_year": 2001,
-    "de_peak": 13,
-    "uk_peak": 8,
-    "us_peak": 2,
-    "youtube_url": "https://www.youtube.com/results?search_query=Linkin%20Park%20In%20the%20End",
-    "background": "„In the End“ ist ein Song der US-amerikanischen Rockband Linkin Park, der als vierte und letzte Single ihres Debütalbums „Hybrid Theory“ im Jahr 2000 erschien. Das Stück zählt zu den bekanntesten Werken der Gruppe und gilt als ihr Signature-Song. Charakteristisch für den Titel sind unter anderem das prägnante Klavier-Riff sowie die vokale Rolle von Rapper Mike Shinoda.",
-    "fact_1": "Leadsänger Chester Bennington mochte den Song anfangs nicht und wollte ursprünglich verhindern, dass er auf das Album „Hybrid Theory“ aufgenommen wird.",
-    "fact_2": "Im Juni 2021 wurde „In the End“ der erste Nu-Metal-Song, der die Marke von einer Milliarde Streams auf Spotify überschritt.",
-    "source_url": "https://en.wikipedia.org/wiki/In_the_End"
   }
 ]
