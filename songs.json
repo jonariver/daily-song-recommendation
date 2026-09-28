@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-28",
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony",
+    "release_year": 1997,
+    "de_peak": 37,
+    "uk_peak": 2,
+    "us_peak": 12,
+    "youtube_url": "https://www.youtube.com/results?search_query=The%20Verve%20Bitter%20Sweet%20Symphony",
+    "background": "„Bitter Sweet Symphony“ ist ein Song der englischen Rockband The Verve, der am 16. Juni 1997 als erste Single aus ihrem dritten Album „Urban Hymns“ erschien. Das Stück basiert auf einem Sample einer Orchesterversion des Rolling-Stones-Songs „The Last Time“ von dem Andrew Oldham Orchestra. Produziert wurde der Track von Youth in den Londoner Olympic Studios.",
+    "fact_1": "Nach einer Klage wegen des Samples musste die Band sämtliche Tantiemen an Mick Jagger und Keith Richards abtreten, bis diese sowie Allen Kleins Sohn im Jahr 2019 die Rechte wieder an Richard Ashcroft übertrugen.",
+    "fact_2": "Im Musikvideo läuft Frontmann Richard Ashcroft über einen belebten Bürgersteig im Londoner Stadtteil Hoxton und rempelt dabei ununterbrochen Passanten an.",
+    "source_url": "https://en.wikipedia.org/wiki/Bitter_Sweet_Symphony"
+  },
+  {
     "date": "2026-09-27",
     "artist": "The Black Eyed Peas",
     "title": "I Gotta Feeling",
@@ -418,19 +432,5 @@
     "fact_1": "Der Titel gilt als Aushängeschild („signature song“) von Bon Jovi und gehört mit weltweit über 13 Millionen Verkäufen zu den meistverkauften Singles aller Zeiten.",
     "fact_2": "Auf dem Greatest-Hits-Album Cross Road veröffentlichte die Band im Jahr 1994 eine alternative Version des Songs unter dem Titel „Prayer 94“.",
     "source_url": "https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer"
-  },
-  {
-    "date": "2026-08-26",
-    "artist": "Soft Cell",
-    "title": "Tainted Love",
-    "release_year": 1981,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 8,
-    "youtube_url": "https://www.youtube.com/results?search_query=Soft%20Cell%20Tainted%20Love",
-    "background": "„Tainted Love“ ist ein von Ed Cobb komponierter Song, der ursprünglich 1964 von der Soul-Musikerin Gloria Jones aufgenommen wurde. Im Jahr 1981 erlangte das Stück weltweite Bekanntheit, nachdem es von dem britischen Synth-Pop-Duo Soft Cell für ihr Album „Non-Stop Erotic Cabaret“ gecovert und neu bearbeitet worden war.",
-    "fact_1": "Der Song wurde ursprünglich bereits 1964 von der Soul-Musikerin Gloria Jones aufgenommen.",
-    "fact_2": "Der Komponist des Liedes, Ed Cobb, war ehemaliges Mitglied der US-amerikanischen Gruppe The Four Preps.",
-    "source_url": "https://en.wikipedia.org/wiki/Tainted_Love"
   }
 ]
