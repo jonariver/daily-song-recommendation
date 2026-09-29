@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-29",
+    "artist": "Sia",
+    "title": "Chandelier",
+    "release_year": 2014,
+    "de_peak": 10,
+    "uk_peak": 6,
+    "us_peak": 8,
+    "youtube_url": "https://www.youtube.com/results?search_query=Sia%20Chandelier",
+    "background": "„Chandelier“ ist ein Electropop-Song der australischen Sängerin und Songwriterin Sia, der im März 2014 als Lead-Single ihres sechsten Studioalbums „1000 Forms of Fear“ erschien. Textlich behandelt das Stück eine melancholische Thematik rund um die Entmoralisierung und Rationalisierung von Alkoholismus aus der Sicht eines „Partygirls“. Dabei geht es um das flüchtige Gefühl der Befreiung durch den Rausch sowie die Scham, Schuld und Leere, die mit der Sucht einhergehen.",
+    "fact_1": "Das Musikvideo mit der Tänzerin Maddie Ziegler wurde auf YouTube bereits mehr als 2,8 Milliarden Mal aufgerufen.",
+    "fact_2": "Der Song erhielt bei den 57. Grammy Awards insgesamt vier Nominierungen, unter anderem als Song des Jahres und für das beste Musikvideo.",
+    "source_url": "https://en.wikipedia.org/wiki/Chandelier_(song)"
+  },
+  {
     "date": "2026-09-28",
     "artist": "The Verve",
     "title": "Bitter Sweet Symphony",
@@ -418,19 +432,5 @@
     "fact_1": "Sylvester Stallone engagierte Survivor erst, nachdem die Band Queen die Nutzung ihres Songs „Another One Bites the Dust“ verweigert hatte.",
     "fact_2": "Das Gitarrenriff und die Akkordwechsel des Songs wurden speziell so konzipiert, dass sie zu den Schlägen in den Boxszenen des Films passen.",
     "source_url": "https://en.wikipedia.org/wiki/Eye_of_the_Tiger"
-  },
-  {
-    "date": "2026-08-27",
-    "artist": "Bon Jovi",
-    "title": "Livin' on a Prayer",
-    "release_year": 1986,
-    "de_peak": 6,
-    "uk_peak": 4,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Bon%20Jovi%20Livin'%20on%20a%20Prayer",
-    "background": "„Livin' on a Prayer“ ist ein Song der US-amerikanischen Rockband Bon Jovi aus ihrem dritten Studioalbum Slippery When Wet. Das Ende 1986 veröffentlichte Stück wurde von Jon Bon Jovi, Richie Sambora und Desmond Child geschrieben.",
-    "fact_1": "Der Titel gilt als Aushängeschild („signature song“) von Bon Jovi und gehört mit weltweit über 13 Millionen Verkäufen zu den meistverkauften Singles aller Zeiten.",
-    "fact_2": "Auf dem Greatest-Hits-Album Cross Road veröffentlichte die Band im Jahr 1994 eine alternative Version des Songs unter dem Titel „Prayer 94“.",
-    "source_url": "https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer"
   }
 ]
