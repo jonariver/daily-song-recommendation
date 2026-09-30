@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-09-30",
+    "artist": "Alanis Morissette",
+    "title": "Ironic",
+    "release_year": 1996,
+    "de_peak": 8,
+    "uk_peak": 11,
+    "us_peak": 4,
+    "youtube_url": "https://www.youtube.com/results?search_query=Alanis%20Morissette%20Ironic",
+    "background": "\"Ironic\" wurde im Februar 1996 als vierte Single aus Alanis Morissettes drittem Studioalbum \"Jagged Little Pill\" veröffentlicht. Das von Morissette und Glen Ballard geschriebene Stück beschreibt verschiedene unglückliche Situationen als „ironisch“. Dies löste Debatten darüber aus, ob die geschilderten Szenarien der tatsächlichen Bedeutung von Ironie entsprechen.",
+    "fact_1": "Im Musikvideo des französischen Regisseurs Stéphane Sednaoui fährt Morissette durch eine Winterlandschaft und stellt dabei mehrere Insassen gleichzeitig dar.",
+    "fact_2": "Für ihr Album \"Jagged Little Pill Acoustic\" im Jahr 2005 nahm Morissette eine Akustikversion des Songs mit leicht veränderten Textzeilen auf.",
+    "source_url": "https://en.wikipedia.org/wiki/Ironic_(song)"
+  },
+  {
     "date": "2026-09-29",
     "artist": "Sia",
     "title": "Chandelier",
@@ -418,19 +432,5 @@
     "fact_1": "In der MTV-Sendung „Green Day Makes a Video“ wurde der vorherige Song des Albums, „Holiday“, als Party und „Boulevard of Broken Dreams“ als der darauffolgende Kater beschrieben.",
     "fact_2": "Es ist der einzige Song, der sowohl den Grammy Award für die Aufnahme des Jahres („Record of the Year“) als auch den MTV Video Music Award für das Video des Jahres („Video of the Year“) gewinnen konnte.",
     "source_url": "https://en.wikipedia.org/wiki/Boulevard_of_Broken_Dreams_(Green_Day_song)"
-  },
-  {
-    "date": "2026-08-28",
-    "artist": "Survivor",
-    "title": "Eye of the Tiger",
-    "release_year": 1982,
-    "de_peak": 13,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Survivor%20Eye%20of%20the%20Tiger",
-    "background": "„Eye of the Tiger“ ist ein Song der US-amerikanischen Rockband Survivor, der von Frankie Sullivan und Jim Peterik als Titelsong für den Film Rocky III geschrieben wurde. Das Stück wurde im Mai 1982 veröffentlicht und kombiniert Hardrock mit einem Post-Disco-Beat.",
-    "fact_1": "Sylvester Stallone engagierte Survivor erst, nachdem die Band Queen die Nutzung ihres Songs „Another One Bites the Dust“ verweigert hatte.",
-    "fact_2": "Das Gitarrenriff und die Akkordwechsel des Songs wurden speziell so konzipiert, dass sie zu den Schlägen in den Boxszenen des Films passen.",
-    "source_url": "https://en.wikipedia.org/wiki/Eye_of_the_Tiger"
   }
 ]
