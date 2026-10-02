@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-02",
+    "artist": "Hozier",
+    "title": "Take Me to Church",
+    "release_year": 2013,
+    "de_peak": 2,
+    "uk_peak": 2,
+    "us_peak": 2,
+    "youtube_url": "https://www.youtube.com/results?search_query=Hozier%20Take%20Me%20to%20Church",
+    "background": "„Take Me to Church“ ist die Debütsingle des irischen Singer-Songwriters Hozier, die im September 2013 erschien. Der damals noch unbekannte Musiker schrieb und nahm den Mid-Tempo-Soul-Song auf dem Dachboden des Hauses seiner Eltern in der Grafschaft Wicklow auf. Textlich nutzt das Stück religiöse Begriffe, um eine romantische Beziehung angesichts von Diskriminierung durch die Kirche zu beschreiben.",
+    "fact_1": "Das in Schwarz-Weiß gedrehte Musikvideo behandelt eine romantische Beziehung zwischen zwei Männern sowie einen homophoben Angriff und ging auf YouTube schnell viral.",
+    "fact_2": "Der Song brachte Hozier bei den 57. Annual Grammy Awards eine Nominierung in der Kategorie „Song of the Year“ ein.",
+    "source_url": "https://en.wikipedia.org/wiki/Take_Me_to_Church"
+  },
+  {
     "date": "2026-10-01",
     "artist": "Duran Duran",
     "title": "Hungry Like the Wolf",
@@ -418,19 +432,5 @@
     "fact_1": "Der Titel des Liedes ist vom letzten Gemälde der mexikanischen Künstlerin Frida Kahlo inspiriert, auf dem die Worte „Viva la Vida“ auf einer Wassermelone zu sehen sind.",
     "fact_2": "Den gewünschten Klang des Songs fand die Band erst nach dem Hinzufügen des Soundeffekts einer Kirchenglocke, woraufhin Sänger Chris Martin äußerte: „That's it.“",
     "source_url": "https://en.wikipedia.org/wiki/Viva_la_Vida"
-  },
-  {
-    "date": "2026-08-30",
-    "artist": "Eminem",
-    "title": "Lose Yourself",
-    "release_year": 2002,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Eminem%20Lose%20Yourself",
-    "background": "„Lose Yourself“ ist ein Song des US-amerikanischen Rappers Eminem aus dem Soundtrack zum Film „8 Mile“ aus dem Jahr 2002. Das Stück wurde von Eminem zusammen mit Jeff Bass und Luis Resto komponiert sowie produziert, während der Text vollständig von Eminem stammt. Er erschien am 28. Oktober 2002 als Lead-Single des Soundtrack-Albums.",
-    "fact_1": "Es war der erste Hip-Hop-Song überhaupt, der mit dem Academy Award (Oscar) für den besten Originalsong ausgezeichnet wurde.",
-    "fact_2": "Im Jahr 2020 trat Eminem mit dem Song als Überraschungsgast bei der 92. Verleihung der Academy Awards auf.",
-    "source_url": "https://en.wikipedia.org/wiki/Lose_Yourself"
   }
 ]
