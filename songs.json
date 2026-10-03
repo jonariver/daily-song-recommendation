@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-03",
+    "artist": "The Cure",
+    "title": "Friday I'm in Love",
+    "release_year": 1992,
+    "de_peak": 16,
+    "uk_peak": 6,
+    "us_peak": 18,
+    "youtube_url": "https://www.youtube.com/results?search_query=The%20Cure%20Friday%20I'm%20in%20Love",
+    "background": "\"Friday I'm in Love\" der britischen Rockband The Cure erschien im Mai 1992 als zweite Single ihres neunten Studioalbums \"Wish\". Das zugehörige Musikvideo unter der Regie von Tim Pope zeigt die Band bei einem Auftritt auf einer Tonbühne. Der Song entwickelte sich zu einem weltweiten Erfolg.",
+    "fact_1": "Der Hauptautor Robert Smith beschrieb den Song 1992 als eine sehr naive, fröhliche Art von Popsong.",
+    "fact_2": "Das Musikvideo gewann bei den MTV Video Music Awards 1992 die Auszeichnung als \"European Viewer's Choice for Best Music Video\".",
+    "source_url": "https://en.wikipedia.org/wiki/Friday_I%27m_in_Love"
+  },
+  {
     "date": "2026-10-02",
     "artist": "Hozier",
     "title": "Take Me to Church",
@@ -418,19 +432,5 @@
     "fact_1": "Das 1983 veröffentlichte Musikvideo von Regisseur Steve Barron, das die Band in einer Bibliothek zeigt, erreichte im Juni 2024 die Marke von einer Milliarde Aufrufen auf YouTube.",
     "fact_2": "Mitte bis Ende der 2010er-Jahre erlebte der Song über die sozialen Medien einen erneuten Popularitätsschub.",
     "source_url": "https://en.wikipedia.org/wiki/Africa_(song)"
-  },
-  {
-    "date": "2026-08-31",
-    "artist": "Coldplay",
-    "title": "Viva La Vida",
-    "release_year": 2008,
-    "de_peak": 5,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Coldplay%20Viva%20La%20Vida",
-    "background": "Der Song „Viva la Vida“ der britischen Rockband Coldplay wurde 2008 für ihr viertes Studioalbum veröffentlicht. Die Lyrics erzählen die Geschichte eines Königs, der sein Königreich verloren hat, und enthalten sowohl historische als auch christliche Anspielungen.",
-    "fact_1": "Der Titel des Liedes ist vom letzten Gemälde der mexikanischen Künstlerin Frida Kahlo inspiriert, auf dem die Worte „Viva la Vida“ auf einer Wassermelone zu sehen sind.",
-    "fact_2": "Den gewünschten Klang des Songs fand die Band erst nach dem Hinzufügen des Soundeffekts einer Kirchenglocke, woraufhin Sänger Chris Martin äußerte: „That's it.“",
-    "source_url": "https://en.wikipedia.org/wiki/Viva_la_Vida"
   }
 ]
