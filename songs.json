@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-04",
+    "artist": "Culture Club",
+    "title": "Karma Chameleon",
+    "release_year": 1983,
+    "de_peak": 2,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Culture%20Club%20Karma%20Chameleon",
+    "background": "„Karma Chameleon“ ist ein Song der englischen Band Culture Club und erschien 1983 auf ihrem Album „Colour by Numbers“. Die im September 1983 im Vereinigten Königreich veröffentlichte Single entwickelte sich zu einem weltweiten Erfolg und verkaufte sich global über fünf Millionen Mal.",
+    "fact_1": "In einer ITV-Umfrage aus dem Jahr 2015 wählte das britische Publikum das Lied auf Platz neun seiner liebsten Nummer-eins-Hits der 1980er-Jahre.",
+    "fact_2": "Das Cover der Single enthält Fotografien von David Levine.",
+    "source_url": "https://en.wikipedia.org/wiki/Karma_Chameleon"
+  },
+  {
     "date": "2026-10-03",
     "artist": "The Cure",
     "title": "Friday I'm in Love",
@@ -418,19 +432,5 @@
     "fact_1": "Gitarrist The Edge nutzte für die gehaltenen Gitarrentöne des Songs einen Prototyp der sogenannten „Infinite Guitar“.",
     "fact_2": "„With or Without You“ ist der am zweithäufigsten gecoverte Song von U2.",
     "source_url": "https://en.wikipedia.org/wiki/With_or_Without_You"
-  },
-  {
-    "date": "2026-09-02",
-    "artist": "Toto",
-    "title": "Africa",
-    "release_year": 1982,
-    "de_peak": 7,
-    "uk_peak": 3,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Toto%20Africa",
-    "background": "„Africa“ ist ein Song der US-amerikanischen Rockband Toto und der finale Titel ihres vierten Studioalbums „Toto IV“ aus dem Jahr 1982. Geschrieben von den Bandmitgliedern David Paich und Jeff Porcaro, wurde der Titel von der Band selbst produziert und von Greg Ladanyi abgemischt. Die Veröffentlichung entwickelte sich im Laufe der Zeit zu einem der meistverkauften Songs aller Zeiten.",
-    "fact_1": "Das 1983 veröffentlichte Musikvideo von Regisseur Steve Barron, das die Band in einer Bibliothek zeigt, erreichte im Juni 2024 die Marke von einer Milliarde Aufrufen auf YouTube.",
-    "fact_2": "Mitte bis Ende der 2010er-Jahre erlebte der Song über die sozialen Medien einen erneuten Popularitätsschub.",
-    "source_url": "https://en.wikipedia.org/wiki/Africa_(song)"
   }
 ]
