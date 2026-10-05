@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-05",
+    "artist": "Nena",
+    "title": "99 Luftballons",
+    "release_year": 1983,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 2,
+    "youtube_url": "https://www.youtube.com/results?search_query=Nena%2099%20Luftballons",
+    "background": "\"99 Luftballons\" ist ein Song der westdeutschen Band Nena aus dem Jahr 1983, der auf ihrem selbstbetitelten Album erschien. Nach großem Erfolg des Originals in Europa und Japan wurde 1984 eine englischsprachige Version unter dem Titel \"99 Red Balloons\" veröffentlicht.",
+    "fact_1": "Der Text der englischen Version stammt von Kevin McAlea.",
+    "fact_2": "Die englische Fassung ist keine direkte Übersetzung des deutschen Originals und unterscheidet sich inhaltlich leicht von diesem.",
+    "source_url": "https://en.wikipedia.org/wiki/99_Luftballons"
+  },
+  {
     "date": "2026-10-04",
     "artist": "Culture Club",
     "title": "Karma Chameleon",
@@ -418,19 +432,5 @@
     "fact_1": "Bei den 52. Grammy Awards im Jahr 2010 gewann der Song drei Auszeichnungen, darunter für die Aufnahme des Jahres („Record of the Year“), den besten Rocksong und die beste Rockleistung eines Duos oder einer Gruppe.",
     "fact_2": "Das Lied ist in der Tonart C-Dur geschrieben.",
     "source_url": "https://en.wikipedia.org/wiki/Use_Somebody"
-  },
-  {
-    "date": "2026-09-03",
-    "artist": "U2",
-    "title": "With or Without You",
-    "release_year": 1987,
-    "de_peak": 7,
-    "uk_peak": 4,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=U2%20With%20or%20Without%20You",
-    "background": "„With or Without You“ ist ein Song der irischen Rockband U2, der im März 1987 als erste Single ihres fünften Studioalbums „The Joshua Tree“ veröffentlicht wurde. Die Rockballade basiert auf einem Ende 1985 aufgenommenen Demo und behandelt vordergründig eine schwierige Liebe. Inspiriert wurden die Lyrics von Bonos zwiespältigen Gefühlen bezüglich seines Lebens als Musiker im Vergleich zu seinem Familienleben.",
-    "fact_1": "Gitarrist The Edge nutzte für die gehaltenen Gitarrentöne des Songs einen Prototyp der sogenannten „Infinite Guitar“.",
-    "fact_2": "„With or Without You“ ist der am zweithäufigsten gecoverte Song von U2.",
-    "source_url": "https://en.wikipedia.org/wiki/With_or_Without_You"
   }
 ]
