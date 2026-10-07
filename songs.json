@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-07",
+    "artist": "Foster the People",
+    "title": "Pumped Up Kicks",
+    "release_year": 2010,
+    "de_peak": 9,
+    "uk_peak": 18,
+    "us_peak": 3,
+    "youtube_url": "https://www.youtube.com/results?search_query=Foster%20the%20People%20Pumped%20Up%20Kicks",
+    "background": "„Pumped Up Kicks“ ist die Debütsingle der US-amerikanischen Indie-Pop-Band Foster the People, die im September 2010 veröffentlicht wurde. Das Lied entwickelte sich zum Durchbruch der Gruppe und zu einem der beliebtesten Songs des Jahres 2011. Frontmann Mark Foster schrieb und nahm das Stück auf, während er als Schreiber für Werbejingles arbeitete.",
+    "fact_1": "Im Kontrast zur schwungvollen musikalischen Komposition beschreibt der Songtext die mordlüsternen Gedanken eines verstörten Jugendlichen namens „Robert“.",
+    "fact_2": "Der Track verhalf der Band zu einem Plattenvertrag über mehrere Alben, nachdem er 2010 als kostenloser Download online viel Aufmerksamkeit erregt hatte.",
+    "source_url": "https://en.wikipedia.org/wiki/Pumped_Up_Kicks"
+  },
+  {
     "date": "2026-10-06",
     "artist": "Technotronic",
     "title": "Pump Up the Jam",
@@ -418,19 +432,5 @@
     "fact_1": "Whitney Houston steuerte ungenannte Songtexte bei und wird offiziell als Gesangsarrangeurin des Stücks geführt.",
     "fact_2": "Mit weltweit über 18 Millionen verkauften Exemplaren ist der Titel die meistverkaufte Single einer Künstlerin in den 1980er-Jahren.",
     "source_url": "https://en.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me)"
-  },
-  {
-    "date": "2026-09-05",
-    "artist": "TLC",
-    "title": "Waterfalls",
-    "release_year": 1995,
-    "de_peak": 5,
-    "uk_peak": 4,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=TLC%20Waterfalls",
-    "background": "„Waterfalls“ ist ein Song der US-amerikanischen Girlgroup TLC, der im Mai 1995 als dritte Single aus ihrem zweiten Album „CrazySexyCool“ erschien. In ihren Songtexten greift die Gruppe gesellschaftskritische Themen wie den illegalen Drogenhandel, Promiskuität sowie HIV/AIDS auf. Das von F. Gary Gray gedrehte Musikvideo besaß ein Budget von einer Million Dollar und spiegelte diese Inhalte wider.",
-    "fact_1": "Laut Jarett E. Nolan von BMG war „Waterfalls“ der erste Nummer-eins-Song, der das Thema AIDS thematisierte.",
-    "fact_2": "Mit dem Gewinn des Preises für das „Video of the Year“ bei den MTV Video Music Awards 1995 wurde TLC der erste afroamerikanische Act, der diese Trophäe erhielt.",
-    "source_url": "https://en.wikipedia.org/wiki/Waterfalls_(TLC_song)"
   }
 ]
