@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-08",
+    "artist": "Ray Parker Jr.",
+    "title": "Ghostbusters",
+    "release_year": 1984,
+    "de_peak": 4,
+    "uk_peak": 2,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Ray%20Parker%20Jr.%20Ghostbusters",
+    "background": "Der Song „Ghostbusters“ wurde von dem US-amerikanischen Musiker Ray Parker Jr. geschrieben. Er diente als Titelsong für den gleichnamigen Film aus dem Jahr 1984 und erschien auf dessen Soundtrack.",
+    "fact_1": "Das Lied war bei den 57. Academy Awards als bester Originalsong nominiert, verlor jedoch gegen Stevie Wonders „I Just Called to Say I Love You“.",
+    "fact_2": "Eine Klage beschuldigte Parker, die Melodie auf dem Song „I Want a New Drug“ von Huey Lewis and the News basiert zu haben, woraufhin Lewis eine Ausgleichszahlung erhielt.",
+    "source_url": "https://en.wikipedia.org/wiki/Ghostbusters_(song)"
+  },
+  {
     "date": "2026-10-07",
     "artist": "Foster the People",
     "title": "Pumped Up Kicks",
@@ -418,19 +432,5 @@
     "fact_1": "Durch das Internet-Meme „Rickroll“ erlebte das Musikvideo 2007 ein Comeback, woraufhin Astley 2008 dank einer Internet-Kampagne den MTV Europe Music Award als „Best Act Ever“ gewann.",
     "fact_2": "Das Magazin Billboard wählte „Never Gonna Give You Up“ im Jahr 2023 unter die 500 besten Pop-Songs aller Zeiten.",
     "source_url": "https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up"
-  },
-  {
-    "date": "2026-09-06",
-    "artist": "Whitney Houston",
-    "title": "I Wanna Dance with Somebody (Who Loves Me)",
-    "release_year": 1987,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Whitney%20Houston%20I%20Wanna%20Dance%20with%20Somebody%20(Who%20Loves%20Me)",
-    "background": "Der Song „I Wanna Dance with Somebody (Who Loves Me)“ wurde von George Merrill sowie Shannon Rubicam geschrieben, von Narada Michael Walden produziert und am 27. April 1987 als erste Single aus Whitney Houstons zweitem Album „Whitney“ veröffentlicht. Das Stück sollte der Sängerin nach ihren vorherigen Balladen-Erfolgen einen zugänglicheren Pop-Sound verleihen. Inhaltlich beschreibt der Text eine Frau, die nach einer besonderen Person sucht, mit der sie für immer gemeinsam durchs Leben tanzen kann.",
-    "fact_1": "Whitney Houston steuerte ungenannte Songtexte bei und wird offiziell als Gesangsarrangeurin des Stücks geführt.",
-    "fact_2": "Mit weltweit über 18 Millionen verkauften Exemplaren ist der Titel die meistverkaufte Single einer Künstlerin in den 1980er-Jahren.",
-    "source_url": "https://en.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me)"
   }
 ]
