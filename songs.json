@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-09",
+    "artist": "Europe",
+    "title": "The Final Countdown",
+    "release_year": 1986,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 8,
+    "youtube_url": "https://www.youtube.com/results?search_query=Europe%20The%20Final%20Countdown",
+    "background": "The Final Countdown ist ein Song der schwedischen Rockband Europe aus dem Jahr 1986 und erschien als Debütsingle des gleichnamigen Studioalbums. Obwohl die Band wegen des für sie eher untypischen, weniger gitarrenorientierten Sounds zunächst unsicher war, entwickelte sich das Stück zu einem weltweiten Erfolg.",
+    "fact_1": "Die Grundlagen des Songs bilden ein Anfang der 1980er-Jahre von Sänger Joey Tempest geschriebenes Keyboard-Riff sowie ein von David Bowies Space Oddity inspirierter Text.",
+    "fact_2": "Das von Nick Morris gedrehte Musikvideo zur Single verzeichnet auf YouTube mehr als 1,4 Milliarden Aufrufe.",
+    "source_url": "https://en.wikipedia.org/wiki/The_Final_Countdown_(song)"
+  },
+  {
     "date": "2026-10-08",
     "artist": "Ray Parker Jr.",
     "title": "Ghostbusters",
@@ -418,19 +432,5 @@
     "fact_1": "Das zugehörige Musikvideo wurde in Los Angeles gedreht und vom Regisseur Gus Van Sant geleitet.",
     "fact_2": "Im Jahr 1998 veröffentlichte die englische Girlgroup All Saints eine Coverversion, die zwei Wochen lang die Spitze der britischen Singlecharts belegte.",
     "source_url": "https://en.wikipedia.org/wiki/Under_the_Bridge"
-  },
-  {
-    "date": "2026-09-07",
-    "artist": "Rick Astley",
-    "title": "Never Gonna Give You Up",
-    "release_year": 1987,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Rick%20Astley%20Never%20Gonna%20Give%20You%20Up",
-    "background": "„Never Gonna Give You Up“ ist ein Pop-Song des englischen Sängers Rick Astley, der am 27. Juli 1987 als erste Single seines Debütalbums „Whenever You Need Somebody“ erschien. Das von Stock Aitken Waterman geschriebene und produzierte Stück gilt als Astleys bekanntester Titel und wird von ihm regelmäßig am Ende seiner Live-Konzerte gespielt.",
-    "fact_1": "Durch das Internet-Meme „Rickroll“ erlebte das Musikvideo 2007 ein Comeback, woraufhin Astley 2008 dank einer Internet-Kampagne den MTV Europe Music Award als „Best Act Ever“ gewann.",
-    "fact_2": "Das Magazin Billboard wählte „Never Gonna Give You Up“ im Jahr 2023 unter die 500 besten Pop-Songs aller Zeiten.",
-    "source_url": "https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up"
   }
 ]
