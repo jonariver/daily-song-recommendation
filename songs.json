@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-10",
+    "artist": "Lorde",
+    "title": "Royals",
+    "release_year": 2013,
+    "de_peak": 8,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Lorde%20Royals",
+    "background": "„Royals“ ist die Debütsingle der neuseeländischen Singer-Songwriterin Lorde, die sie gemeinsam mit dem Produzenten Joel Little schrieb. Der minimalistische Art-Pop- und Elektropop-Song übt Kritik am prunkvollen Lebensstil, der in vielen Musikvideos populärer Musiker zur Schau gestellt wird. Der Titel erschien ursprünglich auf ihrer Debüt-EP „The Love Club EP“ sowie auf ihrem Debütalbum „Pure Heroine“.",
+    "fact_1": "Bei den Grammy Awards 2014 wurde der Song in den Kategorien „Song of the Year“ und „Best Pop Solo Performance“ ausgezeichnet.",
+    "fact_2": "In den Medien wurde das Stück als Hymne für Millennials bezeichnet und dafür gewürdigt, anderen Künstlern den Weg zu einem minimalistischeren Sound geebnet zu haben.",
+    "source_url": "https://en.wikipedia.org/wiki/Royals_(song)"
+  },
+  {
     "date": "2026-10-09",
     "artist": "Europe",
     "title": "The Final Countdown",
@@ -418,19 +432,5 @@
     "fact_1": "Gotye schrieb und nahm den Song im Haus seiner Eltern auf der Mornington-Halbinsel im australischen Bundesstaat Victoria auf.",
     "fact_2": "Das Lied samplt das Instrumentalstück „Seville“ von Luiz Bonfá aus dem Jahr 1967 und nutzt eine Xylophon-Melodie, die auf dem Kinderlied „Baa, Baa, Black Sheep“ basiert.",
     "source_url": "https://en.wikipedia.org/wiki/Somebody_That_I_Used_to_Know"
-  },
-  {
-    "date": "2026-09-08",
-    "artist": "Red Hot Chili Peppers",
-    "title": "Under the Bridge",
-    "release_year": 1992,
-    "de_peak": 11,
-    "uk_peak": 13,
-    "us_peak": 2,
-    "youtube_url": "https://www.youtube.com/results?search_query=Red%20Hot%20Chili%20Peppers%20Under%20the%20Bridge",
-    "background": "Der Song „Under the Bridge“ der US-amerikanischen Rockband Red Hot Chili Peppers erschien im Februar 1992 als elfter Titel ihres fünften Studioalbums Blood Sugar Sex Magik. Sänger Anthony Kiedis verfasste den Text, während er über Einsamkeit sowie den Kampf gegen seine Drogensucht nachdachte, und wollte ihn zunächst beinahe nicht mit der Band teilen. Die emotionale Nummer verhalf der Gruppe schließlich zum Durchbruch im Mainstream.",
-    "fact_1": "Das zugehörige Musikvideo wurde in Los Angeles gedreht und vom Regisseur Gus Van Sant geleitet.",
-    "fact_2": "Im Jahr 1998 veröffentlichte die englische Girlgroup All Saints eine Coverversion, die zwei Wochen lang die Spitze der britischen Singlecharts belegte.",
-    "source_url": "https://en.wikipedia.org/wiki/Under_the_Bridge"
   }
 ]
