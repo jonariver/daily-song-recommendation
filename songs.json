@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-11",
+    "artist": "Dua Lipa",
+    "title": "Don't Start Now",
+    "release_year": 2019,
+    "de_peak": 10,
+    "uk_peak": 2,
+    "us_peak": 2,
+    "youtube_url": "https://www.youtube.com/results?search_query=Dua%20Lipa%20Don't%20Start%20Now",
+    "background": "\"Don't Start Now\" ist ein Song der englischen Sängerin Dua Lipa, der am 31. Oktober 2019 als erste Single ihres zweiten Studioalbums \"Future Nostalgia\" erschien. In dem Lied feiert Lipa ihre Unabhängigkeit und fordert einen ehemaligen Partner auf, die gemeinsame Vergangenheit zu vergessen. Das dazugehörige Musikvideo wurde unter der Regie von Nabil Elderkin in Brooklyn gedreht.",
+    "fact_1": "Der Titel gilt als Beginn einer Wiederbelebung der Disco-Musik im Jahr 2020.",
+    "fact_2": "Die Funk-Bassline des Songs wurde von der Musik der Bee Gees, Daft Punk und Two Door Cinema Club inspiriert.",
+    "source_url": "https://en.wikipedia.org/wiki/Don%27t_Start_Now"
+  },
+  {
     "date": "2026-10-10",
     "artist": "Lorde",
     "title": "Royals",
@@ -418,19 +432,5 @@
     "fact_1": "Simple Minds lehnten es anfangs ab, das Lied aufzunehmen, da sie lieber ihr eigenes Material einspielen wollten.",
     "fact_2": "Die Band nahm den Song erst an, nachdem auch mehrere andere Künstler das Angebot abgelehnt hatten.",
     "source_url": "https://en.wikipedia.org/wiki/Don%27t_You_(Forget_About_Me)"
-  },
-  {
-    "date": "2026-09-09",
-    "artist": "Gotye feat. Kimbra",
-    "title": "Somebody That I Used to Know",
-    "release_year": 2011,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Gotye%20feat.%20Kimbra%20Somebody%20That%20I%20Used%20to%20Know",
-    "background": "„Somebody That I Used to Know“ ist eine Mid-Tempo-Ballade des australischen Singer-Songwriters Gotye mit Gesang der neuseeländischen Sängerin Kimbra. Der von Gotye geschriebene und produzierte Song erschien im Juli 2011 als zweite Single seines dritten Studioalbums „Making Mirrors“. Textlich beschreibt das Stück die Nachwirkungen einer romantischen Beziehung aus den Perspektiven beider beteiligten Parteien.",
-    "fact_1": "Gotye schrieb und nahm den Song im Haus seiner Eltern auf der Mornington-Halbinsel im australischen Bundesstaat Victoria auf.",
-    "fact_2": "Das Lied samplt das Instrumentalstück „Seville“ von Luiz Bonfá aus dem Jahr 1967 und nutzt eine Xylophon-Melodie, die auf dem Kinderlied „Baa, Baa, Black Sheep“ basiert.",
-    "source_url": "https://en.wikipedia.org/wiki/Somebody_That_I_Used_to_Know"
   }
 ]
