@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-12",
+    "artist": "Dire Straits",
+    "title": "Money for Nothing",
+    "release_year": 1985,
+    "de_peak": 19,
+    "uk_peak": 4,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Dire%20Straits%20Money%20for%20Nothing",
+    "background": "Der Song „Money for Nothing“ der britischen Rockband Dire Straits wurde 1985 als zweite Single ihres fünften Studioalbums „Brothers in Arms“ veröffentlicht. Der Text ist aus der Perspektive von zwei Arbeitern geschrieben, die Musikvideos schauen und das Gesehene kommentieren. Der Song enthält zudem einen Gastauftritt von Sting, der die charakteristische Falsett-Einleitung singt.",
+    "fact_1": "Das von Steve Barron gedrehte Musikvideo nutzte als eines der ersten computeranimierte menschliche Figuren und war das erste Video, das beim Sendestart von MTV Europe im August 1987 gezeigt wurde.",
+    "fact_2": "Stings im Hintergrund gesungene Zeile „I want my MTV“ verwendet dieselben Noten wie die Strophen des Police-Hits „Don't Stand So Close To Me“.",
+    "source_url": "https://en.wikipedia.org/wiki/Money_for_Nothing"
+  },
+  {
     "date": "2026-10-11",
     "artist": "Dua Lipa",
     "title": "Don't Start Now",
@@ -418,19 +432,5 @@
     "fact_1": "Der Titel des Songs wurde durch George Harrisons Soloalbum Wonderwall Music inspiriert.",
     "fact_2": "Im Oktober 2020 wurde „Wonderwall“ der erste Song aus den 1990er-Jahren, der eine Milliarde Streams auf Spotify erreichte.",
     "source_url": "https://en.wikipedia.org/wiki/Wonderwall"
-  },
-  {
-    "date": "2026-09-10",
-    "artist": "Simple Minds",
-    "title": "Don't You (Forget About Me)",
-    "release_year": 1985,
-    "de_peak": 4,
-    "uk_peak": 7,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Simple%20Minds%20Don't%20You%20(Forget%20About%20Me)",
-    "background": "„Don't You (Forget About Me)“ ist ein Song der schottischen Rockband Simple Minds aus dem Jahr 1985. Das Stück wurde von dem Musikproduzenten Keith Forsey und dem Gitarristen Steve Schiff für den Film „The Breakfast Club“ geschrieben. Der Song entwickelte sich zu einem großen Erfolg für die Band und gilt als eine Hymne der 1980er-Jahre.",
-    "fact_1": "Simple Minds lehnten es anfangs ab, das Lied aufzunehmen, da sie lieber ihr eigenes Material einspielen wollten.",
-    "fact_2": "Die Band nahm den Song erst an, nachdem auch mehrere andere Künstler das Angebot abgelehnt hatten.",
-    "source_url": "https://en.wikipedia.org/wiki/Don%27t_You_(Forget_About_Me)"
   }
 ]
