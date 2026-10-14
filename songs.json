@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-14",
+    "artist": "Bruce Springsteen",
+    "title": "Dancing in the Dark",
+    "release_year": 1984,
+    "de_peak": 9,
+    "uk_peak": 4,
+    "us_peak": 2,
+    "youtube_url": "https://www.youtube.com/results?search_query=Bruce%20Springsteen%20Dancing%20in%20the%20Dark",
+    "background": "\"Dancing in the Dark\" ist ein Song, der vom US-amerikanischen Rocksänger Bruce Springsteen geschrieben und interpretiert wurde. Er wurde 1984 als erste Single aus seinem Album \"Born in the U.S.A.\" veröffentlicht.",
+    "fact_1": "Der Song wurde zum größten Hit des Albums \"Born in the U.S.A.\".",
+    "fact_2": "Er verhalf dem Album dazu, das meistverkaufte Album in Bruce Springsteens Karriere zu werden.",
+    "source_url": "https://en.wikipedia.org/wiki/Dancing_in_the_Dark_(Bruce_Springsteen_song)"
+  },
+  {
     "date": "2026-10-12",
     "artist": "Dire Straits",
     "title": "Money for Nothing",
@@ -418,19 +432,5 @@
     "fact_1": "Der Song wurde von deutscher House- und Techno-Musik inspiriert und enthält eine Eingangs- und Refrain-Passage mit sinnfreien Silben.",
     "fact_2": "In einer Studie der American Psychological Association aus dem Jahr 2017 über die melodischen Muster von Ohrwürmern wurde „Bad Romance“ als einer der eingängigsten Songs der Welt bezeichnet.",
     "source_url": "https://en.wikipedia.org/wiki/Bad_Romance"
-  },
-  {
-    "date": "2026-09-11",
-    "artist": "Oasis",
-    "title": "Wonderwall",
-    "release_year": 1995,
-    "de_peak": 17,
-    "uk_peak": 2,
-    "us_peak": 8,
-    "youtube_url": "https://www.youtube.com/results?search_query=Oasis%20Wonderwall",
-    "background": "\"Wonderwall\" ist ein Song der englischen Rockband Oasis, der am 30. Oktober 1995 als vierte Single ihres zweiten Studioalbums (What's the Story) Morning Glory? veröffentlicht wurde. Das von Noel Gallagher geschriebene Stück beschreibt laut dem Gitarristen einen imaginären Freund, der einen vor sich selbst rettet.",
-    "fact_1": "Der Titel des Songs wurde durch George Harrisons Soloalbum Wonderwall Music inspiriert.",
-    "fact_2": "Im Oktober 2020 wurde „Wonderwall“ der erste Song aus den 1990er-Jahren, der eine Milliarde Streams auf Spotify erreichte.",
-    "source_url": "https://en.wikipedia.org/wiki/Wonderwall"
   }
 ]
