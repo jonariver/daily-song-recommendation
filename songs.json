@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-15",
+    "artist": "Dexys Midnight Runners",
+    "title": "Come On Eileen",
+    "release_year": 1982,
+    "de_peak": 5,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Dexys%20Midnight%20Runners%20Come%20On%20Eileen",
+    "background": "„Come On Eileen“ ist ein Song der englischen Band Dexys Midnight Runners, der im Juni 1982 in Großbritannien als Single aus ihrem zweiten Studioalbum „Too-Rye-Ay“ veröffentlicht wurde. Produziert wurde das Stück von Clive Langer und Alan Winstanley.",
+    "fact_1": "Obwohl das Lied offiziell Kevin Rowland, Jim Paterson und Billy Adams zugeschrieben wurde, gab Rowland später an, dass der Kern der Melodie eigentlich Kevin Archer gebührt.",
+    "fact_2": "Der Titel gewann bei den Brit Awards 1983 die Auszeichnung als beste britische Single und war im Jahr 1982 die meistverkaufte Single in Großbritannien.",
+    "source_url": "https://en.wikipedia.org/wiki/Come_On_Eileen"
+  },
+  {
     "date": "2026-10-14",
     "artist": "Bruce Springsteen",
     "title": "Dancing in the Dark",
@@ -418,19 +432,5 @@
     "fact_1": "Der Song wurde von Falco zusammen mit den niederländischen Musikproduzenten Bolland & Bolland geschrieben.",
     "fact_2": "Es ist bis heute das einzige deutschsprachige Lied, das die Spitzenposition der US-amerikanischen Billboard Hot 100 erreichte.",
     "source_url": "https://en.wikipedia.org/wiki/Rock_Me_Amadeus"
-  },
-  {
-    "date": "2026-09-12",
-    "artist": "Lady Gaga",
-    "title": "Bad Romance",
-    "release_year": 2009,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 2,
-    "youtube_url": "https://www.youtube.com/results?search_query=Lady%20Gaga%20Bad%20Romance",
-    "background": "„Bad Romance“ ist ein Song der US-amerikanischen Sängerin Lady Gaga aus ihrer EP „The Fame Monster“ aus dem Jahr 2009. Das Stück wurde von Lady Gaga und dem marokkanisch-schwedischen Produzenten RedOne geschrieben und verarbeitet thematisch die Paranoia der Künstlerin während ihrer Tourneen sowie ihre Anziehung zu ungesunden Beziehungen. Die finale Version feierte im Oktober 2009 während der Pariser Modenschau von Alexander McQueen ihre Premiere.",
-    "fact_1": "Der Song wurde von deutscher House- und Techno-Musik inspiriert und enthält eine Eingangs- und Refrain-Passage mit sinnfreien Silben.",
-    "fact_2": "In einer Studie der American Psychological Association aus dem Jahr 2017 über die melodischen Muster von Ohrwürmern wurde „Bad Romance“ als einer der eingängigsten Songs der Welt bezeichnet.",
-    "source_url": "https://en.wikipedia.org/wiki/Bad_Romance"
   }
 ]
