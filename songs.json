@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-16",
+    "artist": "Men at Work",
+    "title": "Down Under",
+    "release_year": 1981,
+    "de_peak": 9,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Men%20at%20Work%20Down%20Under",
+    "background": "„Down Under“ ist ein Song der australischen Rockband Men at Work, der von den Mitbegründern Colin Hay und Ron Strykert geschrieben wurde. Der Titel wurde ursprünglich 1980 als B-Seite der ersten lokalen Single „Keypunch Operator“ im Eigenverlag veröffentlicht. Die spätere und bekannteste Version erschien 1981 auf dem Debütalbum „Business as Usual“ mit einem schnelleren Tempo und einem veränderten Arrangement.",
+    "fact_1": "Der Song wird in Australien als patriotisches Lied wahrgenommen und scherzhaft oft als „die echte australische Nationalhymne“ bezeichnet.",
+    "fact_2": "Im Januar 2018 wurde „Down Under“ im Rahmen von Triple Ms „Ozzest 100“ auf Platz 2 der „australischsten“ Songs aller Zeiten gewählt.",
+    "source_url": "https://en.wikipedia.org/wiki/Down_Under_(song)"
+  },
+  {
     "date": "2026-10-15",
     "artist": "Dexys Midnight Runners",
     "title": "Come On Eileen",
@@ -418,19 +432,5 @@
     "fact_1": "Der Song wurde von mehr als 30 anderen Künstlern gecovert.",
     "fact_2": "Mit 14 Millionen verkauften Exemplaren weltweit war das Stück die zweitmeistverkaufte Single einer Künstlerin in den 1980er-Jahren.",
     "source_url": "https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun"
-  },
-  {
-    "date": "2026-09-13",
-    "artist": "Falco",
-    "title": "Rock Me Amadeus",
-    "release_year": 1985,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Falco%20Rock%20Me%20Amadeus",
-    "background": "„Rock Me Amadeus“ ist ein Song des österreichischen Musikers Falco, der 1985 für sein drittes Studioalbum „Falco 3“ aufgenommen wurde. Die Single wurde im selben Jahr über das Label A&M für den physischen Verkauf im deutschsprachigen Europa veröffentlicht.",
-    "fact_1": "Der Song wurde von Falco zusammen mit den niederländischen Musikproduzenten Bolland & Bolland geschrieben.",
-    "fact_2": "Es ist bis heute das einzige deutschsprachige Lied, das die Spitzenposition der US-amerikanischen Billboard Hot 100 erreichte.",
-    "source_url": "https://en.wikipedia.org/wiki/Rock_Me_Amadeus"
   }
 ]
