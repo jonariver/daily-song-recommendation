@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-17",
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "release_year": 1991,
+    "de_peak": 9,
+    "uk_peak": 5,
+    "us_peak": 16,
+    "youtube_url": "https://www.youtube.com/results?search_query=Metallica%20Enter%20Sandman",
+    "background": "\"Enter Sandman\" ist der Eröffnungstrack und die erste Single aus dem selbstbetitelten fünften Album der US-amerikanischen Heavy-Metal-Band Metallica aus dem Jahr 1991. Die Musik wurde von Kirk Hammett, James Hetfield und Lars Ulrich komponiert. Der von Sänger Hetfield verfasste Text behandelt das Thema der Alpträume eines Kindes.",
+    "fact_1": "Der Song verhalf Metallica zu weltweiter Popularität und trieb den Verkauf ihres Albums auf über 30 Millionen Exemplare an.",
+    "fact_2": "Seit 1991 ist der Titel auf allen Live-Alben und DVDs der Band enthalten.",
+    "source_url": "https://en.wikipedia.org/wiki/Enter_Sandman"
+  },
+  {
     "date": "2026-10-16",
     "artist": "Men at Work",
     "title": "Down Under",
@@ -418,19 +432,5 @@
     "fact_1": "Der männliche Gastgesang von Paul McCoy wurde vom Plattenlabel gegen den Wunsch von Amy Lee durchgesetzt, um den Song besser im damaligen Musikmarkt zu platzieren.",
     "fact_2": "Die Single wurde mit dem Grammy Award in der Kategorie „Best Hard Rock Performance“ ausgezeichnet und war zudem als bester Rock-Song nominiert.",
     "source_url": "https://en.wikipedia.org/wiki/Bring_Me_to_Life"
-  },
-  {
-    "date": "2026-09-14",
-    "artist": "Cyndi Lauper",
-    "title": "Girls Just Want to Have Fun",
-    "release_year": 1983,
-    "de_peak": 6,
-    "uk_peak": 2,
-    "us_peak": 2,
-    "youtube_url": "https://www.youtube.com/results?search_query=Cyndi%20Lauper%20Girls%20Just%20Want%20to%20Have%20Fun",
-    "background": "\"Girls Just Want to Have Fun\" wurde 1979 von Robert Hazard geschrieben und 1983 durch die US-amerikanische Sängerin Cyndi Lauper bekannt gemacht, die dafür einige Textzeilen änderte. Das Lied erschien über Portrait Records als ihre Debütsingle aus dem ersten Soloalbum \"She's So Unusual\" und erlangte Bekanntheit als feministische Hymne.",
-    "fact_1": "Der Song wurde von mehr als 30 anderen Künstlern gecovert.",
-    "fact_2": "Mit 14 Millionen verkauften Exemplaren weltweit war das Stück die zweitmeistverkaufte Single einer Künstlerin in den 1980er-Jahren.",
-    "source_url": "https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun"
   }
 ]
