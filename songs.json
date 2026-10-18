@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-18",
+    "artist": "Santana feat. Rob Thomas",
+    "title": "Smooth",
+    "release_year": 1999,
+    "de_peak": 4,
+    "uk_peak": 3,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Santana%20feat.%20Rob%20Thomas%20Smooth",
+    "background": "„Smooth“ ist ein Song der US-amerikanischen Rockband Santana und Rob Thomas von Matchbox Twenty, der auch den Hauptgesang übernimmt. Das Stück wurde im Juni 1999 als erste Single aus Santanas Studioalbum „Supernatural“ im Radio veröffentlicht. Für die Produktion der Aufnahme war Matt Serletic verantwortlich.",
+    "fact_1": "Rob Thomas schrieb für den Song die ursprüngliche Melodie sowie den Text des Songwriters Itaal Shur um.",
+    "fact_2": "Im Jahr 2000 wurde das Werk bei den 42. Grammy Awards unter anderem als Aufnahme des Jahres und Song des Jahres ausgezeichnet.",
+    "source_url": "https://en.wikipedia.org/wiki/Smooth_(song)"
+  },
+  {
     "date": "2026-10-17",
     "artist": "Metallica",
     "title": "Enter Sandman",
@@ -418,19 +432,5 @@
     "fact_1": "Nach der Veröffentlichung führten Urheberrechtskontroversen zu mehreren Klagen und nachträglichen Änderungen an den Songwriting-Credits.",
     "fact_2": "Das Musikvideo, das Mark Ronson, Bruno Mars und The Hooligans tanzend in einer Stadtstraße zeigt, verzeichnet auf YouTube über 5,6 Milliarden Aufrufe.",
     "source_url": "https://en.wikipedia.org/wiki/Uptown_Funk"
-  },
-  {
-    "date": "2026-09-15",
-    "artist": "Evanescence",
-    "title": "Bring Me to Life",
-    "release_year": 2003,
-    "de_peak": 2,
-    "uk_peak": 1,
-    "us_peak": 5,
-    "youtube_url": "https://www.youtube.com/results?search_query=Evanescence%20Bring%20Me%20to%20Life",
-    "background": "„Bring Me to Life“ wurde am 13. Januar 2003 als Debütsingle der US-amerikanischen Rockband Evanescence aus ihrem Album „Fallen“ veröffentlicht und war im Soundtrack des Films „Daredevil“ enthalten. Die damals 19-jährige Amy Lee schrieb das Lied über das Gefühl, in einer missbräuchlichen Beziehung abgestumpft zu sein und neue Lebensfreude zu entdecken. Der von Dave Fortman produzierte Song wird stilistisch primär dem Nu Metal und Rap-Rock zugeordnet.",
-    "fact_1": "Der männliche Gastgesang von Paul McCoy wurde vom Plattenlabel gegen den Wunsch von Amy Lee durchgesetzt, um den Song besser im damaligen Musikmarkt zu platzieren.",
-    "fact_2": "Die Single wurde mit dem Grammy Award in der Kategorie „Best Hard Rock Performance“ ausgezeichnet und war zudem als bester Rock-Song nominiert.",
-    "source_url": "https://en.wikipedia.org/wiki/Bring_Me_to_Life"
   }
 ]
