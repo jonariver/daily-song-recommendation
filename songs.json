@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-19",
+    "artist": "Spice Girls",
+    "title": "Wannabe",
+    "release_year": 1996,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Spice%20Girls%20Wannabe",
+    "background": "\"Wannabe\" erschien im Juni 1996 als Debütsingle der Spice Girls und thematisiert den Wert weiblicher Freundschaften gegenüber romantischen Beziehungen. Der Dance-Pop-Song entwickelte sich schnell zum Symbol für die \"Girl Power\"-Philosophie der Gruppe. Ursprünglich von Dave Way abgemischt, war die Band mit dem Ergebnis unzufrieden, woraufhin Mark \"Spike\" Stent den Mix übernahm.",
+    "fact_1": "Eine Studie aus dem Jahr 2014 ergab, dass \"Wannabe\" unter jungen Englischsprachigen der am leichtesten wiedererkennbare Pop-Song der letzten 60 Jahre war.",
+    "fact_2": "Der Song entwickelte sich zur weltweit meistverkauften Single einer Girlgroup.",
+    "source_url": "https://en.wikipedia.org/wiki/Wannabe"
+  },
+  {
     "date": "2026-10-18",
     "artist": "Santana feat. Rob Thomas",
     "title": "Smooth",
@@ -418,19 +432,5 @@
     "fact_1": "Auf dem Cover der Single wurde die Band als „Human League 100“ aufgeführt.",
     "fact_2": "Das Magazin Rolling Stone bezeichnete das Lied im November 1983 als den Durchbruchssong der sogenannten „Second British Invasion“ in den USA.",
     "source_url": "https://en.wikipedia.org/wiki/Don%27t_You_Want_Me"
-  },
-  {
-    "date": "2026-09-16",
-    "artist": "Mark Ronson feat. Bruno Mars",
-    "title": "Uptown Funk",
-    "release_year": 2014,
-    "de_peak": 3,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Mark%20Ronson%20feat.%20Bruno%20Mars%20Uptown%20Funk",
-    "background": "\"Uptown Funk\" ist ein Song des britisch-amerikanischen DJs Mark Ronson und des US-Sängers Bruno Mars aus dem Jahr 2014. Der Titel entstand während einer Freestyle-Studio-Session auf Basis eines Jams, den Mars und seine Band auf Tour gespielt hatten. Musikalisch greift das Stück im Stil von Funk-Pop und Soul den Geist der Funk-Musik der 1980er-Jahre auf.",
-    "fact_1": "Nach der Veröffentlichung führten Urheberrechtskontroversen zu mehreren Klagen und nachträglichen Änderungen an den Songwriting-Credits.",
-    "fact_2": "Das Musikvideo, das Mark Ronson, Bruno Mars und The Hooligans tanzend in einer Stadtstraße zeigt, verzeichnet auf YouTube über 5,6 Milliarden Aufrufe.",
-    "source_url": "https://en.wikipedia.org/wiki/Uptown_Funk"
   }
 ]
