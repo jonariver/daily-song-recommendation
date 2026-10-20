@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-20",
+    "artist": "Usher feat. Lil Jon & Ludacris",
+    "title": "Yeah!",
+    "release_year": 2004,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Usher%20feat.%20Lil%20Jon%20%26%20Ludacris%20Yeah!",
+    "background": "Der Song „Yeah!“ von Usher gemeinsam mit den Rappern Lil Jon und Ludacris erschien im Januar 2004 als Lead-Single seines vierten Studioalbums „Confessions“. Usher nahm das Stück auf, nachdem seine damalige Plattenfirma Arista Records ihn gebeten hatte, noch weitere Lieder für das Album aufzunehmen.",
+    "fact_1": "Der Song kombiniert Crunk und R&B, eine Mischung, die von Produzent Lil Jon als „Crunk&B“ bezeichnet wurde.",
+    "fact_2": "Bei den 47. Grammy Awards gewann „Yeah!“ die Auszeichnung für die beste Rap/Gesang-Kollaboration („Best Rap/Sung Collaboration“) und war zudem als „Record of the Year“ nominiert.",
+    "source_url": "https://en.wikipedia.org/wiki/Yeah!_(Usher_song)"
+  },
+  {
     "date": "2026-10-19",
     "artist": "Spice Girls",
     "title": "Wannabe",
@@ -418,19 +432,5 @@
     "fact_1": "Der Song wurde ursprünglich 1987 unter dem Titel „It Must Have Been Love (Christmas for the Broken Hearted)“ veröffentlicht.",
     "fact_2": "Es gibt fünf offiziell veröffentlichte Versionen des Liedes, darunter eine Country-Version und eine spanischsprachige Aufnahme.",
     "source_url": "https://en.wikipedia.org/wiki/It_Must_Have_Been_Love"
-  },
-  {
-    "date": "2026-09-17",
-    "artist": "The Human League",
-    "title": "Don't You Want Me",
-    "release_year": 1981,
-    "de_peak": 5,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=The%20Human%20League%20Don't%20You%20Want%20Me",
-    "background": "„Don't You Want Me“ ist ein Song der englischen Synth-Pop-Band The Human League, der am 27. November 1981 als vierte Single aus ihrem dritten Studioalbum „Dare“ veröffentlicht wurde. Das Stück gilt als das bekannteste und kommerziell erfolgreichste Werk der Gruppe.",
-    "fact_1": "Auf dem Cover der Single wurde die Band als „Human League 100“ aufgeführt.",
-    "fact_2": "Das Magazin Rolling Stone bezeichnete das Lied im November 1983 als den Durchbruchssong der sogenannten „Second British Invasion“ in den USA.",
-    "source_url": "https://en.wikipedia.org/wiki/Don%27t_You_Want_Me"
   }
 ]
