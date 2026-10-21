@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-21",
+    "artist": "The Prodigy",
+    "title": "Firestarter",
+    "release_year": 1996,
+    "de_peak": 6,
+    "uk_peak": 1,
+    "us_peak": 30,
+    "youtube_url": "https://www.youtube.com/results?search_query=The%20Prodigy%20Firestarter",
+    "background": "„Firestarter“ ist ein Song der britischen Electronic-Dance-Music-Band The Prodigy, der am 18. März 1996 als erste Single ihres dritten Albums „The Fat of the Land“ erschien. Das Stück wurde von Liam Howlett mitgeschrieben sowie produziert und beinhaltet Gesang von Keith Flint.",
+    "fact_1": "Das in Schwarz-Weiß gedrehte Musikvideo entstand unter der Regie von Walter Stern in der Londoner U-Bahn.",
+    "fact_2": "24 Jahre später wählte The Guardian den Song auf Platz acht der Liste der „100 Greatest UK No 1 Singles“.",
+    "source_url": "https://en.wikipedia.org/wiki/Firestarter_(The_Prodigy_song)"
+  },
+  {
     "date": "2026-10-20",
     "artist": "Usher feat. Lil Jon & Ludacris",
     "title": "Yeah!",
@@ -418,19 +432,5 @@
     "fact_1": "Das Musikvideo von Regisseur Chris Applebaum zeigt Rihannas nackten, mit silberner Farbe bedeckten Körper und wurde bei den MTV Video Music Awards 2007 als Video des Jahres ausgezeichnet.",
     "fact_2": "In Großbritannien fiel der Erfolg des Songs zeitlich mit langanhaltendem Regen und Überschwemmungen zusammen, woraufhin er zu einem der meistgespielten Radiosongs der 2000er Jahre wurde.",
     "source_url": "https://en.wikipedia.org/wiki/Umbrella_(song)"
-  },
-  {
-    "date": "2026-09-18",
-    "artist": "Roxette",
-    "title": "It Must Have Been Love",
-    "release_year": 1990,
-    "de_peak": 4,
-    "uk_peak": 3,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Roxette%20It%20Must%20Have%20Been%20Love",
-    "background": "„It Must Have Been Love“ ist eine von Per Gessle geschriebene Powerballade des schwedischen Pop-Duos Roxette, die als ihr bekanntester Song gilt. Die erfolgreichste Fassung entstand 1990 für den Soundtrack des Films „Pretty Woman“, wofür die ursprünglichen Weihnachtsbezüge des Liedes entfernt wurden.",
-    "fact_1": "Der Song wurde ursprünglich 1987 unter dem Titel „It Must Have Been Love (Christmas for the Broken Hearted)“ veröffentlicht.",
-    "fact_2": "Es gibt fünf offiziell veröffentlichte Versionen des Liedes, darunter eine Country-Version und eine spanischsprachige Aufnahme.",
-    "source_url": "https://en.wikipedia.org/wiki/It_Must_Have_Been_Love"
   }
 ]
