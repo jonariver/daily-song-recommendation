@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-22",
+    "artist": "Chumbawamba",
+    "title": "Tubthumping",
+    "release_year": 1997,
+    "de_peak": 1,
+    "uk_peak": 2,
+    "us_peak": 6,
+    "youtube_url": "https://www.youtube.com/results?search_query=Chumbawamba%20Tubthumping",
+    "background": "„Tubthumping“ ist ein Song der britischen Rockband Chumbawamba, der im August 1997 als erste Single ihres achten Studioalbums „Tubthumper“ bei EMI Records erschien. Das von der Band selbst geschriebene und produzierte Stück entwickelte sich zu ihrer mit Abstand erfolgreichsten Single.",
+    "fact_1": "Der Song wurde bei den Brit Awards 1998 für die Auszeichnung als „Best British Single“ nominiert.",
+    "fact_2": "In Großbritannien verkaufte sich die Single insgesamt 880.000 Mal.",
+    "source_url": "https://en.wikipedia.org/wiki/Tubthumping"
+  },
+  {
     "date": "2026-10-21",
     "artist": "The Prodigy",
     "title": "Firestarter",
@@ -418,19 +432,5 @@
     "fact_1": "Bei der ersten Live-Präsentation auf dem Ultra Music Festival in Miami trat Avicii mit einer vollständigen Live-Band auf, was Teile der EDM-Community zunächst verwirrte und verärgerte.",
     "fact_2": "Die prägende Akustikgitarre des Songs wird von Mike Einziger, dem Gitarristen von Incubus, gespielt.",
     "source_url": "https://en.wikipedia.org/wiki/Wake_Me_Up_(Avicii_song)"
-  },
-  {
-    "date": "2026-09-19",
-    "artist": "Rihanna feat. Jay-Z",
-    "title": "Umbrella",
-    "release_year": 2007,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Rihanna%20feat.%20Jay-Z%20Umbrella",
-    "background": "Der Song „Umbrella“ der barbadischen Sängerin Rihanna wurde am 29. März 2007 als Lead-Single ihres dritten Studioalbums „Good Girl Gone Bad“ veröffentlicht. Das Stück enthält einen Gastbeitrag ihres Mentors und Def-Jam-Labelchefs Jay-Z, der den Song auch mitgeschrieben hat.",
-    "fact_1": "Das Musikvideo von Regisseur Chris Applebaum zeigt Rihannas nackten, mit silberner Farbe bedeckten Körper und wurde bei den MTV Video Music Awards 2007 als Video des Jahres ausgezeichnet.",
-    "fact_2": "In Großbritannien fiel der Erfolg des Songs zeitlich mit langanhaltendem Regen und Überschwemmungen zusammen, woraufhin er zu einem der meistgespielten Radiosongs der 2000er Jahre wurde.",
-    "source_url": "https://en.wikipedia.org/wiki/Umbrella_(song)"
   }
 ]
