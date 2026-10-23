@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-23",
+    "artist": "Prince",
+    "title": "Kiss",
+    "release_year": 1986,
+    "de_peak": 4,
+    "uk_peak": 6,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Prince%20Kiss",
+    "background": "\"Kiss\" ist ein Song des US-amerikanischen Musikers Prince, der am 5. Februar 1986 über das Label Paisley Park veröffentlicht wurde. Es ist die erste Singleauskopplung aus dem achten Studioalbum \"Parade\" von Prince and the Revolution.",
+    "fact_1": "Das Magazin NME wählte den Titel zur besten Single des Jahres 1986 und setzte ihn auf Platz 4 seiner Liste der 150 besten Singles aller Zeiten.",
+    "fact_2": "Sowohl Age of Chance als auch Art of Noise veröffentlichten Versionen des Songs, die von der Kritik gelobt wurden und Chart-Erfolge erzielten.",
+    "source_url": "https://en.wikipedia.org/wiki/Kiss_(Prince_song)"
+  },
+  {
     "date": "2026-10-22",
     "artist": "Chumbawamba",
     "title": "Tubthumping",
@@ -418,19 +432,5 @@
     "fact_1": "Der Titel wurde von dem italienischen Musiker Giorgio Moroder komponiert und produziert.",
     "fact_2": "Der Songtext stammt von der Blondie-Sängerin Debbie Harry.",
     "source_url": "https://en.wikipedia.org/wiki/Call_Me_(Blondie_song)"
-  },
-  {
-    "date": "2026-09-20",
-    "artist": "Avicii",
-    "title": "Wake Me Up",
-    "release_year": 2013,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 4,
-    "youtube_url": "https://www.youtube.com/results?search_query=Avicii%20Wake%20Me%20Up",
-    "background": "„Wake Me Up“ ist die im Juni 2013 veröffentlichte Lead-Single aus dem Debütalbum „True“ des schwedischen DJs und Produzenten Avicii. Der Song entstand in Zusammenarbeit mit Aloe Blacc, der den Gesang beisteuerte, sowie Mike Einziger von der Band Incubus. Nach seiner Veröffentlichung entwickelte sich das Stück weltweit zu einem großen kritischen sowie kommerziellen Erfolg.",
-    "fact_1": "Bei der ersten Live-Präsentation auf dem Ultra Music Festival in Miami trat Avicii mit einer vollständigen Live-Band auf, was Teile der EDM-Community zunächst verwirrte und verärgerte.",
-    "fact_2": "Die prägende Akustikgitarre des Songs wird von Mike Einziger, dem Gitarristen von Incubus, gespielt.",
-    "source_url": "https://en.wikipedia.org/wiki/Wake_Me_Up_(Avicii_song)"
   }
 ]
