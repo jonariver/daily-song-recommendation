@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-24",
+    "artist": "Foreigner",
+    "title": "I Want to Know What Love Is",
+    "release_year": 1984,
+    "de_peak": 3,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Foreigner%20I%20Want%20to%20Know%20What%20Love%20Is",
+    "background": "„I Want to Know What Love Is“ ist eine Powerballade der britisch-amerikanischen Rockband Foreigner. Der Titel wurde im November 1984 als erste Single aus ihrem fünften Album „Agent Provocateur“ veröffentlicht und entwickelte sich zum größten Hit der Gruppe. Bis heute zählt das Stück zu den bekanntesten Songs der Band und ist ein Dauerbrenner im Radio.",
+    "fact_1": "Das Magazin Rolling Stone wählte das Stück in seine Liste der besten Songs aller Zeiten (Platz 476 im Jahr 2004 und Platz 479 im Jahr 2010).",
+    "fact_2": "In den Jahren 2000, 2001 und 2002 gelang dem Lied erneut der Sprung in die Top 25 der Billboard Hot Adult Contemporary Recurrents Charts.",
+    "source_url": "https://en.wikipedia.org/wiki/I_Want_to_Know_What_Love_Is"
+  },
+  {
     "date": "2026-10-23",
     "artist": "Prince",
     "title": "Kiss",
@@ -418,19 +432,5 @@
     "fact_1": "In den Lyrics verspottet Eilish ihr Gegenüber dafür, einen auf hart zu machen, während sie nahelegt, selbst der widerstandsfähigere „bad guy“ zu sein.",
     "fact_2": "Das Musikvideo zeigt exzentrische Szenen, unter anderem wie Eilish Nasenbluten hat oder auf dem Rücken eines Mannes sitzt, der Liegestütze macht.",
     "source_url": "https://en.wikipedia.org/wiki/Bad_Guy_(Billie_Eilish_song)"
-  },
-  {
-    "date": "2026-09-21",
-    "artist": "Blondie",
-    "title": "Call Me",
-    "release_year": 1980,
-    "de_peak": 14,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Blondie%20Call%20Me",
-    "background": "„Call Me“ ist ein Song der US-amerikanischen New-Wave-Band Blondie, der Anfang 1980 in den USA als Single erschien. Das Stück diente als Titelsong für den Film „American Gigolo“ aus dem Jahr 1980 und ist auch auf dessen Soundtrack-Album enthalten.",
-    "fact_1": "Der Titel wurde von dem italienischen Musiker Giorgio Moroder komponiert und produziert.",
-    "fact_2": "Der Songtext stammt von der Blondie-Sängerin Debbie Harry.",
-    "source_url": "https://en.wikipedia.org/wiki/Call_Me_(Blondie_song)"
   }
 ]
