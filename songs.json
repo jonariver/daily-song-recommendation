@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-25",
+    "artist": "Belinda Carlisle",
+    "title": "Heaven Is a Place on Earth",
+    "release_year": 1987,
+    "de_peak": 3,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Belinda%20Carlisle%20Heaven%20Is%20a%20Place%20on%20Earth",
+    "background": "\"Heaven Is a Place on Earth\" ist ein Lied der US-amerikanischen Sängerin Belinda Carlisle, das von Rick Nowels und Ellen Shipley geschrieben wurde. Es erschien im September 1987 als erste Single ihres zweiten Studioalbums \"Heaven on Earth\" und gilt als ihr Markenzeichen.",
+    "fact_1": "Der Song wurde 1988 für den Grammy Award für die beste weibliche Pop-Gesangsdarbietung nominiert, unterlag jedoch Whitney Houstons \"I Wanna Dance with Somebody (Who Loves Me)\".",
+    "fact_2": "Dave Fawbert zeichnete das Lied 2017 im Magazin ShortList für einen der besten Tonartwechsel der Musikgeschichte aus.",
+    "source_url": "https://en.wikipedia.org/wiki/Heaven_Is_a_Place_on_Earth"
+  },
+  {
     "date": "2026-10-24",
     "artist": "Foreigner",
     "title": "I Want to Know What Love Is",
@@ -418,19 +432,5 @@
     "fact_1": "Der Song verwendet Samples der Musikstücke \"Amores Como el Nuestro\" von Omar Alfanno und \"Carnaval (Baile En La Calle)\" von Luis Días.",
     "fact_2": "Mit rund 13 Millionen Downloads bis zum Jahr 2017 gehört das Werk zu den weltweit meistverkauften Singles aller Zeiten.",
     "source_url": "https://en.wikipedia.org/wiki/Hips_Don%27t_Lie"
-  },
-  {
-    "date": "2026-09-22",
-    "artist": "Billie Eilish",
-    "title": "bad guy",
-    "release_year": 2019,
-    "de_peak": 4,
-    "uk_peak": 2,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Billie%20Eilish%20bad%20guy",
-    "background": "„Bad Guy“ ist ein Song der US-amerikanischen Singer-Songwriterin Billie Eilish und erschien im März 2019 als fünfte Single ihres Debütalbums „When We All Fall Asleep, Where Do We Go?“. Das durch minimalistische Instrumentierung geprägte Stück wird stilistisch als Dance-Pop, Elektropop und Pop-Trap beschrieben. Eilish schrieb den Song gemeinsam mit ihrem Bruder und Produzenten Finneas O'Connell.",
-    "fact_1": "In den Lyrics verspottet Eilish ihr Gegenüber dafür, einen auf hart zu machen, während sie nahelegt, selbst der widerstandsfähigere „bad guy“ zu sein.",
-    "fact_2": "Das Musikvideo zeigt exzentrische Szenen, unter anderem wie Eilish Nasenbluten hat oder auf dem Rücken eines Mannes sitzt, der Liegestütze macht.",
-    "source_url": "https://en.wikipedia.org/wiki/Bad_Guy_(Billie_Eilish_song)"
   }
 ]
