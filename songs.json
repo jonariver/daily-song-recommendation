@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-26",
+    "artist": "Bryan Adams",
+    "title": "(Everything I Do) I Do It for You",
+    "release_year": 1991,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Bryan%20Adams%20(Everything%20I%20Do)%20I%20Do%20It%20for%20You",
+    "background": "„(Everything I Do) I Do It for You“ ist eine Power-Ballade des kanadischen Singer-Songwriters Bryan Adams aus dem Jahr 1991. Das von Adams, Michael Kamen und Robert John „Mutt“ Lange geschriebene Stück erschien als Lead-Single sowohl für den Soundtrack des Films „Robin Hood: Prince of Thieves“ als auch für Adams' sechstes Studioalbum „Waking Up the Neighbours“. Das dazugehörige Musikvideo entstand unter der Regie von Julien Temple.",
+    "fact_1": "Mit mehr als 15 Millionen verkauften Exemplaren weltweit ist der Titel der erfolgreichste Song von Bryan Adams und gehört zu den meistverkauften Singles aller Zeiten.",
+    "fact_2": "Das Lied wurde weltweit von hunderten verschiedenen Sängern und Künstlern gecovert.",
+    "source_url": "https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You"
+  },
+  {
     "date": "2026-10-25",
     "artist": "Belinda Carlisle",
     "title": "Heaven Is a Place on Earth",
@@ -418,19 +432,5 @@
     "fact_1": "Der Song ist die einzige Nummer-eins-Single der Band in den USA.",
     "fact_2": "Im Vereinigten Königreich wurde der Titel im Mai 1989 in einer leicht remixten Version erneut veröffentlicht.",
     "source_url": "https://en.wikipedia.org/wiki/Sweet_Child_o%27_Mine"
-  },
-  {
-    "date": "2026-09-23",
-    "artist": "Shakira feat. Wyclef Jean",
-    "title": "Hips Don't Lie",
-    "release_year": 2006,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Shakira%20feat.%20Wyclef%20Jean%20Hips%20Don't%20Lie",
-    "background": "\"Hips Don't Lie\" von der kolumbianischen Sängerin Shakira und dem haitianischen Rapper Wyclef Jean wurde 2006 als Lead-Single der Wiederveröffentlichung ihres Albums \"Oral Fixation, Vol. 2\" veröffentlicht. Das Lied ist eine Überarbeitung von Wyclef Jeans Titel \"Dance Like This\" aus dem Jahr 2004. Beide Künstler waren gemeinsam am Songwriting und der Produktion des Stücks beteiligt.",
-    "fact_1": "Der Song verwendet Samples der Musikstücke \"Amores Como el Nuestro\" von Omar Alfanno und \"Carnaval (Baile En La Calle)\" von Luis Días.",
-    "fact_2": "Mit rund 13 Millionen Downloads bis zum Jahr 2017 gehört das Werk zu den weltweit meistverkauften Singles aller Zeiten.",
-    "source_url": "https://en.wikipedia.org/wiki/Hips_Don%27t_Lie"
   }
 ]
