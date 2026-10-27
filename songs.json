@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-27",
+    "artist": "Lady Gaga & Bradley Cooper",
+    "title": "Shallow",
+    "release_year": 2018,
+    "de_peak": 4,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Lady%20Gaga%20%26%20Bradley%20Cooper%20Shallow",
+    "background": "„Shallow“ ist ein Song der US-amerikanischen Sängerin Lady Gaga und des US-amerikanischen Schauspielers Bradley Cooper, der im September 2018 als Hauptsingle zum Film „A Star Is Born“ erschien. Die Power-Ballade vereint Elemente aus Rock, Country sowie Folk-Pop und bildet einen zentralen Moment in der Handlung des Films. Geschrieben wurde das Stück von Lady Gaga zusammen mit Mark Ronson, Anthony Rossomando und Andrew Wyatt.",
+    "fact_1": "Die Szene, in der die beiden Charaktere den Song gemeinsam auf der Bühne singen, wurde vor einem echten Live-Publikum im Greek Theater in Los Angeles gedreht.",
+    "fact_2": "Der Titel gewann zahlreiche große Preise, darunter den Oscar für den besten Filmsong, einen Golden Globe, einen BAFTA Award sowie zwei Grammy Awards.",
+    "source_url": "https://en.wikipedia.org/wiki/Shallow_(Lady_Gaga_and_Bradley_Cooper_song)"
+  },
+  {
     "date": "2026-10-26",
     "artist": "Bryan Adams",
     "title": "(Everything I Do) I Do It for You",
@@ -418,19 +432,5 @@
     "fact_1": "Der Song gewann den Academy Award (Oscar) für den besten Originalsong bei der 59. Verleihung.",
     "fact_2": "Ebenso wurde das Lied bei den 44. Golden Globe Awards im Jahr 1986 als bester Originalsong ausgezeichnet.",
     "source_url": "https://en.wikipedia.org/wiki/Take_My_Breath_Away"
-  },
-  {
-    "date": "2026-09-25",
-    "artist": "Guns N' Roses",
-    "title": "Sweet Child O' Mine",
-    "release_year": 1987,
-    "de_peak": 10,
-    "uk_peak": 6,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Guns%20N'%20Roses%20Sweet%20Child%20O'%20Mine",
-    "background": "„Sweet Child o' Mine“ ist ein Song der US-amerikanischen Rockband Guns N' Roses. Das Stück erschien 1987 auf ihrem Debütstudioalbum „Appetite for Destruction“ und wurde im Juni 1988 in den USA herausgebracht.",
-    "fact_1": "Der Song ist die einzige Nummer-eins-Single der Band in den USA.",
-    "fact_2": "Im Vereinigten Königreich wurde der Titel im Mai 1989 in einer leicht remixten Version erneut veröffentlicht.",
-    "source_url": "https://en.wikipedia.org/wiki/Sweet_Child_o%27_Mine"
   }
 ]
