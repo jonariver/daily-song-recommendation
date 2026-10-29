@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-29",
+    "artist": "Sinéad O'Connor",
+    "title": "Nothing Compares 2 U",
+    "release_year": 1990,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Sin%C3%A9ad%20O'Connor%20Nothing%20Compares%202%20U",
+    "background": "Der Song „Nothing Compares 2 U“ wurde 1985 ursprünglich von dem US-amerikanischen Musiker Prince für sein Projekt The Family geschrieben. Große Bekanntheit erlangte das Lied 1990, als die irische Sängerin Sinéad O'Connor eine Coverversion für ihr Studioalbum „I Do Not Want What I Haven't Got“ aufnahm. Das Stück drückt die tiefen Sehnsüchte einer verlassenen Person aus und entwickelte sich zu O'Connors Markenzeichen.",
+    "fact_1": "Obwohl der Song anfänglich zu einigen Kontroversen zwischen Sinéad O'Connor und Prince führte, legten die beiden ihre Streitigkeiten in den Jahren vor seinem Tod 2016 bei.",
+    "fact_2": "Prince spielte den Song später regelmäßig bei seinen Live-Auftritten und eine Soloversion von ihm erschien im Jahr 2018.",
+    "source_url": "https://en.wikipedia.org/wiki/Nothing_Compares_2_U"
+  },
+  {
     "date": "2026-10-27",
     "artist": "Lady Gaga & Bradley Cooper",
     "title": "Shallow",
@@ -418,19 +432,5 @@
     "fact_1": "Bei den 52. Grammy Awards gewann der Titel die Auszeichnung für die beste Pop-Darbietung eines Duos oder einer Gruppe mit Gesang.",
     "fact_2": "Im März 2011 wurde der Song das erste Werk in der digitalen Geschichte, das in den USA über sieben Millionen digitale Kopien verkaufte.",
     "source_url": "https://en.wikipedia.org/wiki/I_Gotta_Feeling"
-  },
-  {
-    "date": "2026-09-26",
-    "artist": "Berlin",
-    "title": "Take My Breath Away",
-    "release_year": 1986,
-    "de_peak": 3,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Berlin%20Take%20My%20Breath%20Away",
-    "background": "„Take My Breath Away“ ist ein Song, der von Giorgio Moroder und Tom Whitlock für den Soundtrack des Films „Top Gun“ aus dem Jahr 1986 geschrieben wurde. Das Stück wurde von der US-amerikanischen New-Wave-Band Berlin interpretiert und erschien auch auf ihrem Album „Count Three & Pray“.",
-    "fact_1": "Der Song gewann den Academy Award (Oscar) für den besten Originalsong bei der 59. Verleihung.",
-    "fact_2": "Ebenso wurde das Lied bei den 44. Golden Globe Awards im Jahr 1986 als bester Originalsong ausgezeichnet.",
-    "source_url": "https://en.wikipedia.org/wiki/Take_My_Breath_Away"
   }
 ]
