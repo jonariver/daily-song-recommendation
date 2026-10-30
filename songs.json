@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-30",
+    "artist": "Tracy Chapman",
+    "title": "Fast Car",
+    "release_year": 1988,
+    "de_peak": 10,
+    "uk_peak": 4,
+    "us_peak": 6,
+    "youtube_url": "https://www.youtube.com/results?search_query=Tracy%20Chapman%20Fast%20Car",
+    "background": "„Fast Car“ ist die Debütsingle der US-amerikanischen Singer-Songwriterin Tracy Chapman und erschien im April 1988 bei Elektra Records. Der Song diente als Lead-Single ihres selbstbetitelten Debüt-Studioalbums. Chapmans Auftritt beim Tributkonzert zum 70. Geburtstag von Nelson Mandela im Juni 1988 verhalf dem Lied zu großem Erfolg.",
+    "fact_1": "Der Song erhielt drei Nominierungen bei den Grammy Awards 1989 und gewann die Auszeichnung für die beste weibliche Pop-Gesangsdarbietung (Best Female Pop Vocal Performance).",
+    "fact_2": "Nachdem der Country-Sänger Luke Combs den Song 2023 gecovert hatte, gewann Chapman als erste schwarze Person den Country Music Association Award für den „Song of the Year“.",
+    "source_url": "https://en.wikipedia.org/wiki/Fast_Car"
+  },
+  {
     "date": "2026-10-29",
     "artist": "Sinéad O'Connor",
     "title": "Nothing Compares 2 U",
@@ -418,19 +432,5 @@
     "fact_1": "Nach einer Klage wegen des Samples musste die Band sämtliche Tantiemen an Mick Jagger und Keith Richards abtreten, bis diese sowie Allen Kleins Sohn im Jahr 2019 die Rechte wieder an Richard Ashcroft übertrugen.",
     "fact_2": "Im Musikvideo läuft Frontmann Richard Ashcroft über einen belebten Bürgersteig im Londoner Stadtteil Hoxton und rempelt dabei ununterbrochen Passanten an.",
     "source_url": "https://en.wikipedia.org/wiki/Bitter_Sweet_Symphony"
-  },
-  {
-    "date": "2026-09-27",
-    "artist": "The Black Eyed Peas",
-    "title": "I Gotta Feeling",
-    "release_year": 2009,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=The%20Black%20Eyed%20Peas%20I%20Gotta%20Feeling",
-    "background": "„I Gotta Feeling“ ist ein Song der US-amerikanischen Gruppe The Black Eyed Peas aus ihrem fünften Studioalbum „The E.N.D.“ von 2009. Der Titel wurde von den Bandmitgliedern gemeinsam mit den Produzenten David Guetta und Frédéric Riesterer geschrieben. Am 15. Juni 2009 wurde das Stück über Interscope Records als zweite Single des Albums veröffentlicht.",
-    "fact_1": "Bei den 52. Grammy Awards gewann der Titel die Auszeichnung für die beste Pop-Darbietung eines Duos oder einer Gruppe mit Gesang.",
-    "fact_2": "Im März 2011 wurde der Song das erste Werk in der digitalen Geschichte, das in den USA über sieben Millionen digitale Kopien verkaufte.",
-    "source_url": "https://en.wikipedia.org/wiki/I_Gotta_Feeling"
   }
 ]
