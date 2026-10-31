@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-10-31",
+    "artist": "Alice Cooper",
+    "title": "Poison",
+    "release_year": 1989,
+    "de_peak": 19,
+    "uk_peak": 2,
+    "us_peak": 7,
+    "youtube_url": "https://www.youtube.com/results?search_query=Alice%20Cooper%20Poison",
+    "background": "„Poison“ ist ein Song des US-amerikanischen Musikers Alice Cooper, der von Cooper, dem Produzenten Desmond Child und dem Gitarristen John McCurry geschrieben wurde. Die Single erschien im Juli 1989 aus seinem 18. Album „Trash“. Das Stück entwickelte sich zu einer der erfolgreichsten Singles von Alice Cooper.",
+    "fact_1": "Das Hauptriff des Songs wurde von Gitarrist John McCurry geschrieben, der es bereits zwei Jahre zuvor für den Song „Encircled“ von John Waite verwendet hatte.",
+    "fact_2": "Ultimate Classic Rock wählte das Lied auf Platz 7 der besten Alice-Cooper-Songs und lobte, dass Coopers Intensität die 80er-Jahre-Pop-Metal-Nummer auf ein ganz neues Niveau hebe.",
+    "source_url": "https://en.wikipedia.org/wiki/Poison_(Alice_Cooper_song)"
+  },
+  {
     "date": "2026-10-30",
     "artist": "Tracy Chapman",
     "title": "Fast Car",
@@ -418,19 +432,5 @@
     "fact_1": "Das Musikvideo mit der Tänzerin Maddie Ziegler wurde auf YouTube bereits mehr als 2,8 Milliarden Mal aufgerufen.",
     "fact_2": "Der Song erhielt bei den 57. Grammy Awards insgesamt vier Nominierungen, unter anderem als Song des Jahres und für das beste Musikvideo.",
     "source_url": "https://en.wikipedia.org/wiki/Chandelier_(song)"
-  },
-  {
-    "date": "2026-09-28",
-    "artist": "The Verve",
-    "title": "Bitter Sweet Symphony",
-    "release_year": 1997,
-    "de_peak": 37,
-    "uk_peak": 2,
-    "us_peak": 12,
-    "youtube_url": "https://www.youtube.com/results?search_query=The%20Verve%20Bitter%20Sweet%20Symphony",
-    "background": "„Bitter Sweet Symphony“ ist ein Song der englischen Rockband The Verve, der am 16. Juni 1997 als erste Single aus ihrem dritten Album „Urban Hymns“ erschien. Das Stück basiert auf einem Sample einer Orchesterversion des Rolling-Stones-Songs „The Last Time“ von dem Andrew Oldham Orchestra. Produziert wurde der Track von Youth in den Londoner Olympic Studios.",
-    "fact_1": "Nach einer Klage wegen des Samples musste die Band sämtliche Tantiemen an Mick Jagger und Keith Richards abtreten, bis diese sowie Allen Kleins Sohn im Jahr 2019 die Rechte wieder an Richard Ashcroft übertrugen.",
-    "fact_2": "Im Musikvideo läuft Frontmann Richard Ashcroft über einen belebten Bürgersteig im Londoner Stadtteil Hoxton und rempelt dabei ununterbrochen Passanten an.",
-    "source_url": "https://en.wikipedia.org/wiki/Bitter_Sweet_Symphony"
   }
 ]
