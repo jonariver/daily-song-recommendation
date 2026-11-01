@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-01",
+    "artist": "Midnight Oil",
+    "title": "Beds Are Burning",
+    "release_year": 1987,
+    "de_peak": 6,
+    "uk_peak": 6,
+    "us_peak": 17,
+    "youtube_url": "https://www.youtube.com/results?search_query=Midnight%20Oil%20Beds%20Are%20Burning",
+    "background": "„Beds Are Burning“ ist ein Song der australischen Rockband Midnight Oil und der erste Titel ihres sechsten Albums „Diesel and Dust“ aus dem Jahr 1987. Das Stück wurde als zweite Single aus dem Album ausgekoppelt.",
+    "fact_1": "Die Band spielte den Song während der Abschlussfeier der Sommerolympiade 2000 aufgrund seiner politischen Botschaft ohne die Erlaubnis des IOC live.",
+    "fact_2": "Im Mai 2001 wählte ein 100-köpfiges Branchenpanel der Australasian Performing Right Association den Titel auf Platz drei der besten australischen Songs aller Zeiten.",
+    "source_url": "https://en.wikipedia.org/wiki/Beds_Are_Burning"
+  },
+  {
     "date": "2026-10-31",
     "artist": "Alice Cooper",
     "title": "Poison",
@@ -418,19 +432,5 @@
     "fact_1": "Im Musikvideo des französischen Regisseurs Stéphane Sednaoui fährt Morissette durch eine Winterlandschaft und stellt dabei mehrere Insassen gleichzeitig dar.",
     "fact_2": "Für ihr Album \"Jagged Little Pill Acoustic\" im Jahr 2005 nahm Morissette eine Akustikversion des Songs mit leicht veränderten Textzeilen auf.",
     "source_url": "https://en.wikipedia.org/wiki/Ironic_(song)"
-  },
-  {
-    "date": "2026-09-29",
-    "artist": "Sia",
-    "title": "Chandelier",
-    "release_year": 2014,
-    "de_peak": 10,
-    "uk_peak": 6,
-    "us_peak": 8,
-    "youtube_url": "https://www.youtube.com/results?search_query=Sia%20Chandelier",
-    "background": "„Chandelier“ ist ein Electropop-Song der australischen Sängerin und Songwriterin Sia, der im März 2014 als Lead-Single ihres sechsten Studioalbums „1000 Forms of Fear“ erschien. Textlich behandelt das Stück eine melancholische Thematik rund um die Entmoralisierung und Rationalisierung von Alkoholismus aus der Sicht eines „Partygirls“. Dabei geht es um das flüchtige Gefühl der Befreiung durch den Rausch sowie die Scham, Schuld und Leere, die mit der Sucht einhergehen.",
-    "fact_1": "Das Musikvideo mit der Tänzerin Maddie Ziegler wurde auf YouTube bereits mehr als 2,8 Milliarden Mal aufgerufen.",
-    "fact_2": "Der Song erhielt bei den 57. Grammy Awards insgesamt vier Nominierungen, unter anderem als Song des Jahres und für das beste Musikvideo.",
-    "source_url": "https://en.wikipedia.org/wiki/Chandelier_(song)"
   }
 ]
