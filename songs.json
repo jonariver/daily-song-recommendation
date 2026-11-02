@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-02",
+    "artist": "Chris Isaak",
+    "title": "Wicked Game",
+    "release_year": 1989,
+    "de_peak": 9,
+    "uk_peak": 10,
+    "us_peak": 6,
+    "youtube_url": "https://www.youtube.com/results?search_query=Chris%20Isaak%20Wicked%20Game",
+    "background": "„Wicked Game“ des US-amerikanischen Musikers Chris Isaak erschien 1989 auf seinem dritten Album „Heart Shaped World“ und wurde von Erik Jacobsen produziert. Nachdem die Single bei ihrer Erstveröffentlichung kaum Beachtung fand, entwickelte sie sich zu einem Überraschungserfolg, als ein Radio-Musikdirektor aus Atlanta das Stück in David Lynchs Film „Wild at Heart“ hörte und im Radio spielte.",
+    "fact_1": "Das Musikvideo zum Song wurde von Herb Ritts auf Hawaii gedreht, zeigt das Model Helena Christensen und gewann zwei Preise bei den MTV Video Music Awards 1991.",
+    "fact_2": "Das Magazin „Dazed“ stellte angesichts der zahlreichen Coverversionen und Verwendungen in Film und Fernsehen die Frage, ob der Titel das einflussreichste Liebeslied der modernen Musik sein könnte.",
+    "source_url": "https://en.wikipedia.org/wiki/Wicked_Game"
+  },
+  {
     "date": "2026-11-01",
     "artist": "Midnight Oil",
     "title": "Beds Are Burning",
@@ -418,19 +432,5 @@
     "fact_1": "Das in Sri Lanka gedrehte Musikvideo unter der Regie von Russell Mulcahy gewann 1984 den ersten Grammy Award in der Kategorie Best Short Form Music Video.",
     "fact_2": "Der Song „Hey Everybody!“ der Band 5 Seconds of Summer aus dem Jahr 2015 enthält Elemente von „Hungry Like the Wolf“, weshalb Duran Duran eine Urheberangabe als Songwriter erhielten.",
     "source_url": "https://en.wikipedia.org/wiki/Hungry_Like_the_Wolf"
-  },
-  {
-    "date": "2026-09-30",
-    "artist": "Alanis Morissette",
-    "title": "Ironic",
-    "release_year": 1996,
-    "de_peak": 8,
-    "uk_peak": 11,
-    "us_peak": 4,
-    "youtube_url": "https://www.youtube.com/results?search_query=Alanis%20Morissette%20Ironic",
-    "background": "\"Ironic\" wurde im Februar 1996 als vierte Single aus Alanis Morissettes drittem Studioalbum \"Jagged Little Pill\" veröffentlicht. Das von Morissette und Glen Ballard geschriebene Stück beschreibt verschiedene unglückliche Situationen als „ironisch“. Dies löste Debatten darüber aus, ob die geschilderten Szenarien der tatsächlichen Bedeutung von Ironie entsprechen.",
-    "fact_1": "Im Musikvideo des französischen Regisseurs Stéphane Sednaoui fährt Morissette durch eine Winterlandschaft und stellt dabei mehrere Insassen gleichzeitig dar.",
-    "fact_2": "Für ihr Album \"Jagged Little Pill Acoustic\" im Jahr 2005 nahm Morissette eine Akustikversion des Songs mit leicht veränderten Textzeilen auf.",
-    "source_url": "https://en.wikipedia.org/wiki/Ironic_(song)"
   }
 ]
