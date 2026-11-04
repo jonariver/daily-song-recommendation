@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-04",
+    "artist": "Scorpions",
+    "title": "Wind of Change",
+    "release_year": 1990,
+    "de_peak": 1,
+    "uk_peak": 2,
+    "us_peak": 4,
+    "youtube_url": "https://www.youtube.com/results?search_query=Scorpions%20Wind%20of%20Change",
+    "background": "„Wind of Change“ ist eine Powerballade der deutschen Rockband Scorpions, die vom Leadsänger Klaus Meine geschrieben und für das elfte Studioalbum „Crazy World“ (1990) aufgenommen wurde. Meine komponierte den Text nach dem Besuch der Band in der Sowjetunion auf dem Höhepunkt der Perestroika. Die am 21. Januar 1991 veröffentlichte Single entwickelte sich kurz nach dem gescheiterten Putsch in der Sowjetunion zu einem weltweiten Hit.",
+    "fact_1": "Mit geschätzten 14 Millionen verkauften Exemplaren gehört der Song zu den meistverkauften Singles aller Zeiten und hält den Rekord für die meistverkaufte Single eines deutschen Künstlers.",
+    "fact_2": "Im Jahr 1991 überreichte die Band Michail Gorbatschow eine Goldene Schallplatte sowie 70.000 US-Dollar an Tantiemen aus der Single zur Unterstützung von Kinderkrankenhäusern.",
+    "source_url": "https://en.wikipedia.org/wiki/Wind_of_Change_(Scorpions_song)"
+  },
+  {
     "date": "2026-11-02",
     "artist": "Chris Isaak",
     "title": "Wicked Game",
@@ -418,19 +432,5 @@
     "fact_1": "Das in Schwarz-Weiß gedrehte Musikvideo behandelt eine romantische Beziehung zwischen zwei Männern sowie einen homophoben Angriff und ging auf YouTube schnell viral.",
     "fact_2": "Der Song brachte Hozier bei den 57. Annual Grammy Awards eine Nominierung in der Kategorie „Song of the Year“ ein.",
     "source_url": "https://en.wikipedia.org/wiki/Take_Me_to_Church"
-  },
-  {
-    "date": "2026-10-01",
-    "artist": "Duran Duran",
-    "title": "Hungry Like the Wolf",
-    "release_year": 1982,
-    "de_peak": 29,
-    "uk_peak": 5,
-    "us_peak": 3,
-    "youtube_url": "https://www.youtube.com/results?search_query=Duran%20Duran%20Hungry%20Like%20the%20Wolf",
-    "background": "„Hungry Like the Wolf“ ist ein Song der englischen Pop-Rock-Band Duran Duran, der von den Bandmitgliedern geschrieben und von Colin Thurston für ihr zweites Studioalbum „Rio“ (1982) produziert wurde. Nachdem der Sender MTV das dazugehörige Musikvideo in Rotation nahm, erlangte die Gruppe große Bekanntheit und entwickelte sich zu einer internationalen Sensation.",
-    "fact_1": "Das in Sri Lanka gedrehte Musikvideo unter der Regie von Russell Mulcahy gewann 1984 den ersten Grammy Award in der Kategorie Best Short Form Music Video.",
-    "fact_2": "Der Song „Hey Everybody!“ der Band 5 Seconds of Summer aus dem Jahr 2015 enthält Elemente von „Hungry Like the Wolf“, weshalb Duran Duran eine Urheberangabe als Songwriter erhielten.",
-    "source_url": "https://en.wikipedia.org/wiki/Hungry_Like_the_Wolf"
   }
 ]
