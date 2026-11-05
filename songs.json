@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-05",
+    "artist": "Wham!",
+    "title": "Wake Me Up Before You Go-Go",
+    "release_year": 1984,
+    "de_peak": 2,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Wham!%20Wake%20Me%20Up%20Before%20You%20Go-Go",
+    "background": "„Wake Me Up Before You Go-Go“ ist ein Song des britischen Pop-Duos Wham!, der am 14. Mai 1984 erstmals als Single im Vereinigten Königreich veröffentlicht wurde. Das Stück wurde von George Michael geschrieben und produziert.",
+    "fact_1": "Im Musikvideo tragen George Michael und Andrew Ridgeley übergroße T-Shirts mit der Aufschrift „CHOOSE LIFE“, die von Katharine Hamnett entworfen wurden und einen Modetrend auslösten.",
+    "fact_2": "Auf der Liste der 100 besten Songs der 80er-Jahre des Fernsehsenders VH1 belegte das Lied Platz 28.",
+    "source_url": "https://en.wikipedia.org/wiki/Wake_Me_Up_Before_You_Go-Go"
+  },
+  {
     "date": "2026-11-04",
     "artist": "Scorpions",
     "title": "Wind of Change",
@@ -418,19 +432,5 @@
     "fact_1": "Der Hauptautor Robert Smith beschrieb den Song 1992 als eine sehr naive, fröhliche Art von Popsong.",
     "fact_2": "Das Musikvideo gewann bei den MTV Video Music Awards 1992 die Auszeichnung als \"European Viewer's Choice for Best Music Video\".",
     "source_url": "https://en.wikipedia.org/wiki/Friday_I%27m_in_Love"
-  },
-  {
-    "date": "2026-10-02",
-    "artist": "Hozier",
-    "title": "Take Me to Church",
-    "release_year": 2013,
-    "de_peak": 2,
-    "uk_peak": 2,
-    "us_peak": 2,
-    "youtube_url": "https://www.youtube.com/results?search_query=Hozier%20Take%20Me%20to%20Church",
-    "background": "„Take Me to Church“ ist die Debütsingle des irischen Singer-Songwriters Hozier, die im September 2013 erschien. Der damals noch unbekannte Musiker schrieb und nahm den Mid-Tempo-Soul-Song auf dem Dachboden des Hauses seiner Eltern in der Grafschaft Wicklow auf. Textlich nutzt das Stück religiöse Begriffe, um eine romantische Beziehung angesichts von Diskriminierung durch die Kirche zu beschreiben.",
-    "fact_1": "Das in Schwarz-Weiß gedrehte Musikvideo behandelt eine romantische Beziehung zwischen zwei Männern sowie einen homophoben Angriff und ging auf YouTube schnell viral.",
-    "fact_2": "Der Song brachte Hozier bei den 57. Annual Grammy Awards eine Nominierung in der Kategorie „Song of the Year“ ein.",
-    "source_url": "https://en.wikipedia.org/wiki/Take_Me_to_Church"
   }
 ]
