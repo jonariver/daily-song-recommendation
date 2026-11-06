@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-06",
+    "artist": "Bonnie Tyler",
+    "title": "Total Eclipse of the Heart",
+    "release_year": 1983,
+    "de_peak": 16,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Bonnie%20Tyler%20Total%20Eclipse%20of%20the%20Heart",
+    "background": "„Total Eclipse of the Heart“ ist die Hauptsingle der walisischen Sängerin Bonnie Tyler aus ihrem fünften Studioalbum „Faster Than the Speed of Night“ aus dem Jahr 1983. Das Lied wurde von Jim Steinman geschrieben sowie produziert und ist ein Duett mit Rory Dodd. Es entwickelte sich zu Tylers größtem Erfolg und verkaufte sich weltweit über 13 Millionen Mal.",
+    "fact_1": "Das dazugehörige Musikvideo wurde unter der Regie von Russell Mulcahy in der englischen Grafschaft Surrey gedreht.",
+    "fact_2": "In den USA verhinderte der Erfolg des Songs, dass mit „Making Love Out of Nothing at All“ von Air Supply ein weiteres von Jim Steinman geschriebenes Lied die Spitzenposition erreichte.",
+    "source_url": "https://en.wikipedia.org/wiki/Total_Eclipse_of_the_Heart"
+  },
+  {
     "date": "2026-11-05",
     "artist": "Wham!",
     "title": "Wake Me Up Before You Go-Go",
@@ -418,19 +432,5 @@
     "fact_1": "In einer ITV-Umfrage aus dem Jahr 2015 wählte das britische Publikum das Lied auf Platz neun seiner liebsten Nummer-eins-Hits der 1980er-Jahre.",
     "fact_2": "Das Cover der Single enthält Fotografien von David Levine.",
     "source_url": "https://en.wikipedia.org/wiki/Karma_Chameleon"
-  },
-  {
-    "date": "2026-10-03",
-    "artist": "The Cure",
-    "title": "Friday I'm in Love",
-    "release_year": 1992,
-    "de_peak": 16,
-    "uk_peak": 6,
-    "us_peak": 18,
-    "youtube_url": "https://www.youtube.com/results?search_query=The%20Cure%20Friday%20I'm%20in%20Love",
-    "background": "\"Friday I'm in Love\" der britischen Rockband The Cure erschien im Mai 1992 als zweite Single ihres neunten Studioalbums \"Wish\". Das zugehörige Musikvideo unter der Regie von Tim Pope zeigt die Band bei einem Auftritt auf einer Tonbühne. Der Song entwickelte sich zu einem weltweiten Erfolg.",
-    "fact_1": "Der Hauptautor Robert Smith beschrieb den Song 1992 als eine sehr naive, fröhliche Art von Popsong.",
-    "fact_2": "Das Musikvideo gewann bei den MTV Video Music Awards 1992 die Auszeichnung als \"European Viewer's Choice for Best Music Video\".",
-    "source_url": "https://en.wikipedia.org/wiki/Friday_I%27m_in_Love"
   }
 ]
