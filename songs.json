@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-07",
+    "artist": "Beyoncé feat. Jay-Z",
+    "title": "Crazy in Love",
+    "release_year": 2003,
+    "de_peak": 6,
+    "uk_peak": 1,
+    "us_peak": 1,
+    "youtube_url": "https://www.youtube.com/results?search_query=Beyonc%C3%A9%20feat.%20Jay-Z%20Crazy%20in%20Love",
+    "background": "",
+    "fact_1": "",
+    "fact_2": "",
+    "source_url": ""
+  },
+  {
     "date": "2026-11-06",
     "artist": "Bonnie Tyler",
     "title": "Total Eclipse of the Heart",
@@ -418,19 +432,5 @@
     "fact_1": "Der Text der englischen Version stammt von Kevin McAlea.",
     "fact_2": "Die englische Fassung ist keine direkte Übersetzung des deutschen Originals und unterscheidet sich inhaltlich leicht von diesem.",
     "source_url": "https://en.wikipedia.org/wiki/99_Luftballons"
-  },
-  {
-    "date": "2026-10-04",
-    "artist": "Culture Club",
-    "title": "Karma Chameleon",
-    "release_year": 1983,
-    "de_peak": 2,
-    "uk_peak": 1,
-    "us_peak": 1,
-    "youtube_url": "https://www.youtube.com/results?search_query=Culture%20Club%20Karma%20Chameleon",
-    "background": "„Karma Chameleon“ ist ein Song der englischen Band Culture Club und erschien 1983 auf ihrem Album „Colour by Numbers“. Die im September 1983 im Vereinigten Königreich veröffentlichte Single entwickelte sich zu einem weltweiten Erfolg und verkaufte sich global über fünf Millionen Mal.",
-    "fact_1": "In einer ITV-Umfrage aus dem Jahr 2015 wählte das britische Publikum das Lied auf Platz neun seiner liebsten Nummer-eins-Hits der 1980er-Jahre.",
-    "fact_2": "Das Cover der Single enthält Fotografien von David Levine.",
-    "source_url": "https://en.wikipedia.org/wiki/Karma_Chameleon"
   }
 ]
