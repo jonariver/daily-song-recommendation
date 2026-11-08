@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-08",
+    "artist": "OneRepublic",
+    "title": "Counting Stars",
+    "release_year": 2013,
+    "de_peak": 1,
+    "uk_peak": 1,
+    "us_peak": 2,
+    "youtube_url": "https://www.youtube.com/results?search_query=OneRepublic%20Counting%20Stars",
+    "background": "\"Counting Stars\" ist ein Song der US-amerikanischen Pop-Rock-Band OneRepublic aus ihrem dritten Studioalbum Native (2013). Das Stück wurde von Leadsänger Ryan Tedder geschrieben und zusammen mit Noel Zancanella produziert. Es erschien am 14. Juni 2013 als zweite Single des Albums.",
+    "fact_1": "Das dazugehörige Musikvideo von Regisseur James Lees zeigt die Band bei einem Auftritt im Erdgeschoss eines Gebäudes direkt unter einer Kirchengemeinde im Obergeschoss.",
+    "fact_2": "Im September 2023 veröffentlichte OneRepublic eine neu gestaltete Version des Songs mit einem langsameren Tempo und einer neuen Begleitspur.",
+    "source_url": "https://en.wikipedia.org/wiki/Counting_Stars"
+  },
+  {
     "date": "2026-11-07",
     "artist": "Beyoncé feat. Jay-Z",
     "title": "Crazy in Love",
@@ -418,19 +432,5 @@
     "fact_1": "Die eigentliche Sängerin Ya Kid K wurde aus Marketinggründen zunächst von dem kongolesischen Model Felly Kilingi überschattet, die im Musikvideo per Lippensynchronisation zu sehen war.",
     "fact_2": "Der Song wurde 2021 von Lil Uzi Vert für den Film „Space Jam: A New Legacy“ gecovert.",
     "source_url": "https://en.wikipedia.org/wiki/Pump_Up_the_Jam"
-  },
-  {
-    "date": "2026-10-05",
-    "artist": "Nena",
-    "title": "99 Luftballons",
-    "release_year": 1983,
-    "de_peak": 1,
-    "uk_peak": 1,
-    "us_peak": 2,
-    "youtube_url": "https://www.youtube.com/results?search_query=Nena%2099%20Luftballons",
-    "background": "\"99 Luftballons\" ist ein Song der westdeutschen Band Nena aus dem Jahr 1983, der auf ihrem selbstbetitelten Album erschien. Nach großem Erfolg des Originals in Europa und Japan wurde 1984 eine englischsprachige Version unter dem Titel \"99 Red Balloons\" veröffentlicht.",
-    "fact_1": "Der Text der englischen Version stammt von Kevin McAlea.",
-    "fact_2": "Die englische Fassung ist keine direkte Übersetzung des deutschen Originals und unterscheidet sich inhaltlich leicht von diesem.",
-    "source_url": "https://en.wikipedia.org/wiki/99_Luftballons"
   }
 ]
