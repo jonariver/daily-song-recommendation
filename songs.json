@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-09",
+    "artist": "Laura Branigan",
+    "title": "Self Control",
+    "release_year": 1984,
+    "de_peak": 1,
+    "uk_peak": 5,
+    "us_peak": 7,
+    "youtube_url": "https://www.youtube.com/results?search_query=Laura%20Branigan%20Self%20Control",
+    "background": "„Self Control“ wurde 1984 ursprünglich von dem italienischen Sänger Raf veröffentlicht und im selben Jahr von der US-amerikanischen Sängerin Laura Branigan gecovert. Branigans Interpretation entwickelte sich zu einem der prägenden Songs der 1980er-Jahre. Sowohl das Original als auch das Cover feierten Mitte 1984 in ganz Europa große kommerzielle Erfolge.",
+    "fact_1": "Der Song wurde von Giancarlo Bigazzi, Steve Piccolo und Raf geschrieben und löste die Dominanz von Titeln im Italo-Disco-Stil in den europäischen Charts der 1980er-Jahre aus.",
+    "fact_2": "Im Laufe der Jahre entstanden zahlreiche Neuaufnahmen des Stücks, darunter ein Dance-Remake von Laura Branigan im Jahr 2004 sowie Versionen von Ricky Martin, Royal Gigolos, Infernal und Fast Boy.",
+    "source_url": "https://en.wikipedia.org/wiki/Self_Control_(Raf_song)"
+  },
+  {
     "date": "2026-11-08",
     "artist": "OneRepublic",
     "title": "Counting Stars",
@@ -418,19 +432,5 @@
     "fact_1": "Im Kontrast zur schwungvollen musikalischen Komposition beschreibt der Songtext die mordlüsternen Gedanken eines verstörten Jugendlichen namens „Robert“.",
     "fact_2": "Der Track verhalf der Band zu einem Plattenvertrag über mehrere Alben, nachdem er 2010 als kostenloser Download online viel Aufmerksamkeit erregt hatte.",
     "source_url": "https://en.wikipedia.org/wiki/Pumped_Up_Kicks"
-  },
-  {
-    "date": "2026-10-06",
-    "artist": "Technotronic",
-    "title": "Pump Up the Jam",
-    "release_year": 1989,
-    "de_peak": 2,
-    "uk_peak": 2,
-    "us_peak": 2,
-    "youtube_url": "https://www.youtube.com/results?search_query=Technotronic%20Pump%20Up%20the%20Jam",
-    "background": "„Pump Up the Jam“ ist der Eröffnungstrack auf dem ersten Album des belgischen Acts Technotronic und wurde im August 1989 als Single veröffentlicht. Der Titel verbindet Elemente von Rap sowie Deep House und gilt als frühes Beispiel für das Genre Hip-House. Zudem gilt das Stück als der erste Eurodance-Song, der in den USA zu einem Hit wurde.",
-    "fact_1": "Die eigentliche Sängerin Ya Kid K wurde aus Marketinggründen zunächst von dem kongolesischen Model Felly Kilingi überschattet, die im Musikvideo per Lippensynchronisation zu sehen war.",
-    "fact_2": "Der Song wurde 2021 von Lil Uzi Vert für den Film „Space Jam: A New Legacy“ gecovert.",
-    "source_url": "https://en.wikipedia.org/wiki/Pump_Up_the_Jam"
   }
 ]
